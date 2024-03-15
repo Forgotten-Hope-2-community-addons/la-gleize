@@ -1,0 +1,4 @@
+.dev
+*.zip
+*.code-workspace
+spawnpoints/

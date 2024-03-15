@@ -1,0 +1,20 @@
+# mods/fh2/levels\la_gleize\overgrowth\OvergrowthAtlas.tai
+# 
+# 
+# <filename>		<atlas filename>, <atlas idx>, <woffset>, <hoffset>, <width>, <height>
+# 
+# Texture <filename> can be found in texture atlas <atlas filename>, i.e.,
+# <group><idx>.dds with texture coordinates boundary given by:
+#   A = ( <woffset>, <hoffset> )
+#   B = ( <woffset> + <width>, <hoffset> + <height> )
+# 
+# where coordinates (0,0) and (1,1) of the original texture map correspond
+# to coordinates A and B, respectively, in the texture atlas.
+
+
+objects/vegitation/wip_stvith/textures/wip_birch_lod.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0, 0, 0.25, 1
+objects/vegitation/wip_stvith/textures/wip_bush1.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0.25, 0, 0.25, 1
+objects/vegitation/west_europe/textures/leaf_plane_32m_lod_c.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0.5, 0, 0.25, 0.5
+objects/vegitation/west_europe/textures/pine_22m_lod.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0.75, 0, 0.125, 1
+objects/vegitation/west_europe/textures/pine_19m_lod.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0.5, 0.5, 0.125, 0.5
+objects/vegitation/west_europe/textures/pine_dest_lod_c.dds		levels\la_gleize\overgrowth\OvergrowthAtlas0.dds, 0, 0.625, 0.5, 0.125, 0.5

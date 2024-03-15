@@ -1,0 +1,1746 @@
+rem ********** Object Spawner **********
+rem [ObjectSpawnerTemplate: cp_64_la_gleize_allied_main_car_0]
+ObjectTemplate.create ObjectSpawner cp_64_la_gleize_allied_main_car_0
+ObjectTemplate.activeSafe ObjectSpawner cp_64_la_gleize_allied_main_car_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: cp_64_la_gleize_axis_main_car_0]
+ObjectTemplate.create ObjectSpawner cp_64_la_gleize_axis_main_car_0
+ObjectTemplate.activeSafe ObjectSpawner cp_64_la_gleize_axis_main_car_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_heavy]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_heavy
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_heavy
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kingtiger_1944fall
+ObjectTemplate.setObjectTemplate 2 m4a3e2_jumbo76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_artillery_mobile]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_artillery_mobile
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_artillery_mobile
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 wespe
+ObjectTemplate.setObjectTemplate 2 m7_priest
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 panther_g_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 panther_g_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pzivh_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_105
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_hunter]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_hunter
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_hunter
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 jagdpanzeriv_mid
+ObjectTemplate.setObjectTemplate 2 m36
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_halftrack_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_halftrack_02]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_02
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_02
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_halftrack_03]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_03
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_03
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_jeep_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_jeep_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_jeep_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_jeep_02]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_jeep_02
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_jeep_02
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_recon]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_recon
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_recon
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 puma_ard
+ObjectTemplate.setObjectTemplate 2 m24_chaffee
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_truck_ammo]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_truck_ammo
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_truck_ammo
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard_ammo
+ObjectTemplate.setObjectTemplate 2 gmc_win_ammo
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_forest_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_forest_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_forest_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_heavy]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_heavy
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_heavy
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kingtiger_1944fall
+ObjectTemplate.setObjectTemplate 2 m4a3e2_jumbo76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 panther_g_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 panther_g_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_76
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 pzivh_ard
+ObjectTemplate.setObjectTemplate 2 m4a3_105
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_recon]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_recon
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_recon
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 puma_ard
+ObjectTemplate.setObjectTemplate 2 m24_chaffee
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_jeep_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_jeep_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_jeep_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_jeep_02]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_jeep_02
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_jeep_02
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_truck_ammo]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_truck_ammo
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_truck_ammo
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard_ammo
+ObjectTemplate.setObjectTemplate 2 gmc_win_ammo
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_halftrack_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_halftrack_02]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_02
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_02
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_halftrack_03]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_03
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_halftrack_03
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 sdkfz251_d_ard
+ObjectTemplate.setObjectTemplate 2 m3a1
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_artillery_mobile]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_artillery_mobile
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_artillery_mobile
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 wespe
+ObjectTemplate.setObjectTemplate 2 m7_priest
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_reinforcements_allied_1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_reinforcements_allied_1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_reinforcements_allied_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 autogyro
+ObjectTemplate.setObjectTemplate 2 autogyro
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_reinforcements_axis_1]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_reinforcements_axis_1
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_reinforcements_axis_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 autogyro
+ObjectTemplate.setObjectTemplate 2 autogyro
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_hunter]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_hunter
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_hunter
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 jagdpanzeriv_mid
+ObjectTemplate.setObjectTemplate 2 m36
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_sawmill_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_sawmill_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_sawmill_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_station_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_station_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_station_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_froidcour_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_froidcour_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_froidcour_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_town_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_town_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_town_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_hausoumont_transport_01]
+ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_hausoumont_transport_01
+ObjectTemplate.activeSafe ObjectSpawner CP_64_cmp_lagleize_hausoumont_transport_01
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 opelblitz_ard
+ObjectTemplate.setObjectTemplate 2 gmc_win
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+if v_arg1 == host
+
+   rem [ObjectSpawner: cp_64_la_gleize_allied_main_car_0]
+   Object.create cp_64_la_gleize_allied_main_car_0
+   Object.absolutePosition -611.672/102.265/-134.716
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 10
+   Object.layer 2
+
+   rem [ObjectSpawner: cp_64_la_gleize_axis_main_car_0]
+   Object.create cp_64_la_gleize_axis_main_car_0
+   Object.absolutePosition 596.665/77.597/-592.946
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_tank_heavy]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_tank_heavy
+   Object.absolutePosition -749.474/45.389/-924.288
+   Object.rotation 34.743/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_artillery_mobile]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_artillery_mobile
+   Object.absolutePosition -808.485/53.997/-905.020
+   Object.rotation 177.010/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1
+   Object.absolutePosition -757.501/46.050/-936.148
+   Object.rotation 34.215/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2
+   Object.absolutePosition -765.165/46.710/-947.696
+   Object.rotation 34.244/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1
+   Object.absolutePosition -771.600/47.289/-956.749
+   Object.rotation 36.994/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_tank_hunter]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_tank_hunter
+   Object.absolutePosition -779.833/48.216/-963.078
+   Object.rotation 58.959/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_01]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_01
+   Object.absolutePosition -808.193/53.637/-944.210
+   Object.rotation 179.757/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_02]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_02
+   Object.absolutePosition -808.656/54.089/-930.734
+   Object.rotation 180.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_03]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_03
+   Object.absolutePosition -338.099/35.954/-910.605
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_jeep_01]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_jeep_01
+   Object.absolutePosition -343.169/36.312/-921.416
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_jeep_02]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_jeep_02
+   Object.absolutePosition -345.245/37.290/-930.871
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_recon]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_recon
+   Object.absolutePosition -353.956/33.397/-896.317
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_truck_ammo]
+   Object.create CP_64_cmp_lagleize_mainbase_allied_truck_ammo
+   Object.absolutePosition -808.656/54.208/-918.941
+   Object.rotation 180.000/0.000/0.000
+   Object.setControlPointId 307
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_forest_transport_01]
+   Object.create CP_64_cmp_lagleize_forest_transport_01
+   Object.absolutePosition -152.387/149.457/521.334
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 309
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_tank_heavy]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_tank_heavy
+   Object.absolutePosition 842.606/103.784/811.010
+   Object.rotation -149.249/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1
+   Object.absolutePosition 851.405/102.917/823.476
+   Object.rotation -136.952/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2
+   Object.absolutePosition 863.558/101.030/837.253
+   Object.rotation -133.284/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1
+   Object.absolutePosition 879.236/100.080/850.927
+   Object.rotation -131.133/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_recon]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_recon
+   Object.absolutePosition 832.899/102.661/795.209
+   Object.rotation -151.406/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_jeep_01]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_jeep_01
+   Object.absolutePosition 824.418/100.811/780.528
+   Object.rotation -166.829/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_jeep_02]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_jeep_02
+   Object.absolutePosition 892.167/100.021/860.562
+   Object.rotation -141.780/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_truck_ammo]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_truck_ammo
+   Object.absolutePosition 908.044/100.911/874.061
+   Object.rotation -133.238/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_halftrack_01]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_halftrack_01
+   Object.absolutePosition 898.313/96.916/840.023
+   Object.rotation -106.188/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_halftrack_02]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_halftrack_02
+   Object.absolutePosition 910.692/97.314/849.697
+   Object.rotation -91.463/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_halftrack_03]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_halftrack_03
+   Object.absolutePosition 923.029/98.434/860.201
+   Object.rotation -85.618/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_artillery_mobile]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_artillery_mobile
+   Object.absolutePosition 932.141/98.939/871.881
+   Object.rotation -85.669/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_reinforcements_allied_1]
+   Object.create CP_64_cmp_lagleize_reinforcements_allied_1
+   Object.absolutePosition -793.221/52.835/-979.808
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 310
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_reinforcements_axis_1]
+   Object.create CP_64_cmp_lagleize_reinforcements_axis_1
+   Object.absolutePosition 859.733/116.138/970.218
+   Object.rotation -169.498/0.000/0.000
+   Object.setControlPointId 311
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_axis_tank_hunter]
+   Object.create CP_64_cmp_lagleize_mainbase_axis_tank_hunter
+   Object.absolutePosition 922.247/101.715/887.961
+   Object.rotation -132.602/0.000/0.000
+   Object.setControlPointId 308
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_sawmill_transport_01]
+   Object.create CP_64_cmp_lagleize_sawmill_transport_01
+   Object.absolutePosition -361.220/187.948/722.279
+   Object.rotation 163.923/0.000/0.000
+   Object.setControlPointId 305
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_station_transport_01]
+   Object.create CP_64_cmp_lagleize_station_transport_01
+   Object.absolutePosition -81.307/69.487/-145.737
+   Object.rotation -91.690/0.000/0.000
+   Object.setControlPointId 302
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_froidcour_transport_01]
+   Object.create CP_64_cmp_lagleize_froidcour_transport_01
+   Object.absolutePosition -629.321/99.168/-159.955
+   Object.rotation 38.272/0.000/0.000
+   Object.setControlPointId 301
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_town_transport_01]
+   Object.create CP_64_cmp_lagleize_town_transport_01
+   Object.absolutePosition 392.099/95.336/50.896
+   Object.rotation 163.923/0.000/0.000
+   Object.setControlPointId 304
+   Object.layer 4
+
+   rem [ObjectSpawner: CP_64_cmp_lagleize_hausoumont_transport_01]
+   Object.create CP_64_cmp_lagleize_hausoumont_transport_01
+   Object.absolutePosition 431.411/96.693/276.205
+   Object.rotation 177.134/0.000/0.000
+   Object.setControlPointId 306
+   Object.layer 4
+
+endIf
+
+rem ********** Spawn Points **********
+rem [SpawnPointTemplate: cp_64_la_gleize_allied_main_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_allied_main_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_allied_main_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 10
+
+rem [SpawnPoint: cp_64_la_gleize_allied_main_1]
+Object.create cp_64_la_gleize_allied_main_1
+Object.absolutePosition -640.108/101.336/-128.422
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_allied_main_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_allied_main_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_allied_main_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 10
+
+rem [SpawnPoint: cp_64_la_gleize_allied_main_2]
+Object.create cp_64_la_gleize_allied_main_2
+Object.absolutePosition -582.331/101.443/-124.361
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_crash_site_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_crash_site_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_crash_site_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 9
+
+rem [SpawnPoint: cp_64_la_gleize_crash_site_1]
+Object.create cp_64_la_gleize_crash_site_1
+Object.absolutePosition -335.704/91.009/-47.614
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_crash_site_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_crash_site_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_crash_site_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 9
+
+rem [SpawnPoint: cp_64_la_gleize_crash_site_2]
+Object.create cp_64_la_gleize_crash_site_2
+Object.absolutePosition -272.525/83.681/-55.998
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_chapel_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_chapel_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_chapel_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 8
+
+rem [SpawnPoint: cp_64_la_gleize_chapel_1]
+Object.create cp_64_la_gleize_chapel_1
+Object.absolutePosition -403.347/116.237/89.536
+Object.rotation 85.159/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_chapel_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_chapel_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_chapel_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 8
+
+rem [SpawnPoint: cp_64_la_gleize_chapel_2]
+Object.create cp_64_la_gleize_chapel_2
+Object.absolutePosition -350.605/114.717/107.834
+Object.rotation -124.335/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_defense_line_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_defense_line_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_defense_line_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 6
+
+rem [SpawnPoint: cp_64_la_gleize_defense_line_2]
+Object.create cp_64_la_gleize_defense_line_2
+Object.absolutePosition 95.059/74.401/91.262
+Object.rotation 69.327/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_defense_line_3]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_defense_line_3
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_defense_line_3
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 6
+
+rem [SpawnPoint: cp_64_la_gleize_defense_line_3]
+Object.create cp_64_la_gleize_defense_line_3
+Object.absolutePosition 143.865/72.275/125.845
+Object.rotation 69.327/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_station_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_station_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_station_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 7
+
+rem [SpawnPoint: cp_64_la_gleize_station_1]
+Object.create cp_64_la_gleize_station_1
+Object.absolutePosition -151.461/56.412/-230.723
+Object.rotation 79.968/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_station_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_station_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_station_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 7
+
+rem [SpawnPoint: cp_64_la_gleize_station_2]
+Object.create cp_64_la_gleize_station_2
+Object.absolutePosition -81.258/59.660/-220.592
+Object.rotation -96.330/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_river_farm_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_river_farm_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_river_farm_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 2
+
+rem [SpawnPoint: cp_64_la_gleize_river_farm_1]
+Object.create cp_64_la_gleize_river_farm_1
+Object.absolutePosition 251.286/39.707/-452.094
+Object.rotation 81.544/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_river_farm_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_river_farm_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_river_farm_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 2
+
+rem [SpawnPoint: cp_64_la_gleize_river_farm_2]
+Object.create cp_64_la_gleize_river_farm_2
+Object.absolutePosition 327.512/44.328/-446.829
+Object.rotation -89.033/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_church_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_church_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_church_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 4
+
+rem [SpawnPoint: cp_64_la_gleize_church_1]
+Object.create cp_64_la_gleize_church_1
+Object.absolutePosition 397.616/95.230/107.790
+Object.rotation 130.501/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_church_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_church_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_church_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 4
+
+rem [SpawnPoint: cp_64_la_gleize_church_2]
+Object.create cp_64_la_gleize_church_2
+Object.absolutePosition 461.729/91.195/82.486
+Object.rotation -87.011/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_werimont_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_werimont_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_werimont_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 3
+
+rem [SpawnPoint: cp_64_la_gleize_werimont_2]
+Object.create cp_64_la_gleize_werimont_2
+Object.absolutePosition 495.756/99.298/-165.817
+Object.rotation 86.309/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_werimont_2_3]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_werimont_2_3
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_werimont_2_3
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 3
+
+rem [SpawnPoint: cp_64_la_gleize_werimont_2_3]
+Object.create cp_64_la_gleize_werimont_2_3
+Object.absolutePosition 569.285/93.092/-158.438
+Object.rotation -97.749/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_axis_main_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_axis_main_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_axis_main_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cp_64_la_gleize_axis_main_1]
+Object.create cp_64_la_gleize_axis_main_1
+Object.absolutePosition 593.361/77.486/-599.809
+Object.rotation -118.640/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_axis_main_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_axis_main_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_axis_main_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setGroup 1
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cp_64_la_gleize_axis_main_2]
+Object.create cp_64_la_gleize_axis_main_2
+Object.absolutePosition 470.148/45.986/-651.269
+Object.rotation 3.103/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_mainbase_allied_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_mainbase_allied_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_mainbase_allied_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 307
+ObjectTemplate.setScatterSpawnPositions 1
+
+rem [SpawnPoint: CP_64_cmp_lagleize_mainbase_allied_1]
+Object.create CP_64_cmp_lagleize_mainbase_allied_1
+Object.absolutePosition -299.139/38.692/-903.720
+Object.rotation -137.076/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_mainbase_allied_2]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_mainbase_allied_2
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_mainbase_allied_2
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setGroup 1
+ObjectTemplate.setControlPointId 307
+ObjectTemplate.setScatterSpawnPositions 1
+
+rem [SpawnPoint: CP_64_cmp_lagleize_mainbase_allied_2]
+Object.create CP_64_cmp_lagleize_mainbase_allied_2
+Object.absolutePosition -782.379/50.782/-938.046
+Object.rotation 89.216/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_froidcour_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_froidcour_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_froidcour_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 301
+
+rem [SpawnPoint: CP_64_cmp_lagleize_froidcour_1]
+Object.create CP_64_cmp_lagleize_froidcour_1
+Object.absolutePosition -617.213/98.342/-165.533
+Object.rotation 134.896/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_sawmill_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_sawmill_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_sawmill_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 305
+
+rem [SpawnPoint: CP_64_cmp_lagleize_sawmill_1]
+Object.create CP_64_cmp_lagleize_sawmill_1
+Object.absolutePosition -409.528/189.055/692.486
+Object.rotation 2.451/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_station_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_station_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_station_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 302
+
+rem [SpawnPoint: CP_64_cmp_lagleize_station_1]
+Object.create CP_64_cmp_lagleize_station_1
+Object.absolutePosition -141.344/58.091/-223.664
+Object.rotation 86.317/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_farm_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_farm_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_farm_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 303
+
+rem [SpawnPoint: CP_64_cmp_lagleize_farm_1]
+Object.create CP_64_cmp_lagleize_farm_1
+Object.absolutePosition 298.794/39.913/-497.801
+Object.rotation 34.178/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_hausoumont_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_hausoumont_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_hausoumont_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 306
+
+rem [SpawnPoint: CP_64_cmp_lagleize_hausoumont_1]
+Object.create CP_64_cmp_lagleize_hausoumont_1
+Object.absolutePosition 398.940/96.085/294.997
+Object.rotation -178.428/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_town_1_0]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_town_1_0
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_town_1_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 304
+
+rem [SpawnPoint: CP_64_cmp_lagleize_town_1_0]
+Object.create CP_64_cmp_lagleize_town_1_0
+Object.absolutePosition 388.012/95.242/45.361
+Object.rotation 23.803/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_forest_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_forest_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_forest_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 309
+
+rem [SpawnPoint: CP_64_cmp_lagleize_forest_1]
+Object.create CP_64_cmp_lagleize_forest_1
+Object.absolutePosition -155.773/146.226/503.937
+Object.rotation 69.758/0.000/0.000
+Object.layer 4
+
+rem [SpawnPointTemplate: CP_64_cmp_lagleize_mainbase_axis_1]
+ObjectTemplate.create SpawnPoint CP_64_cmp_lagleize_mainbase_axis_1
+ObjectTemplate.activeSafe SpawnPoint CP_64_cmp_lagleize_mainbase_axis_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 308
+ObjectTemplate.setScatterSpawnPositions 1
+
+rem [SpawnPoint: CP_64_cmp_lagleize_mainbase_axis_1]
+Object.create CP_64_cmp_lagleize_mainbase_axis_1
+Object.absolutePosition 878.505/98.682/828.916
+Object.rotation 38.085/0.000/0.000
+Object.layer 4
+
+rem ********** Control Points **********
+rem [ControlPointTemplate: cp_64_la_gleize_axis_main]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_axis_main
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_axis_main
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_axis_main
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 1
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_river_farm]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_river_farm
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_river_farm
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_river_farm
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 2
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_werimont]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_werimont
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_werimont
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_werimont
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 3
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_church]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_church
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_church
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_church
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 4
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_defense_line]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_defense_line
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_defense_line
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_defense_line
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 6
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_station]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_station
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_station
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_station
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 7
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_chapel]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_chapel
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_chapel
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_chapel
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 8
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_crash_site]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_crash_site
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_crash_site
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_crash_site
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 9
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_allied_main]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_allied_main
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_allied_main
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_allied_main
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 10
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_crossroads]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_crossroads
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_crossroads
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setControlPointName cp_64_la_gleize_crossroads
+ObjectTemplate.radius 40
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_s1_lock]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_s1_lock
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_s1_lock
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_s1_lock
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 101
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_s2_lock]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_s2_lock
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_s2_lock
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_s2_lock
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 102
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_froidcour]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_froidcour
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_froidcour
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_froidcour
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 301
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_station]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_station
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_station
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_station
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 302
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_farm]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_farm
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_farm
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_farm
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 303
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_town]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_town
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_town
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_town
+ObjectTemplate.radius 45
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 304
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_sawmill]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_sawmill
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_sawmill
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_sawmill
+ObjectTemplate.radius 50
+ObjectTemplate.team 2
+ObjectTemplate.controlPointId 305
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_hausoumont]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_hausoumont
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_hausoumont
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_hausoumont
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 306
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_mainbase_allied]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_mainbase_allied
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_mainbase_allied
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_mainbase_allied
+ObjectTemplate.radius 100
+ObjectTemplate.team 2
+ObjectTemplate.controlPointId 307
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_mainbase_axis]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_mainbase_axis
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_mainbase_axis
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_mainbase_axis
+ObjectTemplate.radius 100
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 308
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_forest]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_forest
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_forest
+ObjectTemplate.radius 50
+ObjectTemplate.team 2
+ObjectTemplate.controlPointId 309
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_reinforcements_allied]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_reinforcements_allied
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_reinforcements_allied
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_reinforcements_allied
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 310
+ObjectTemplate.showOnMinimap 0
+ObjectTemplate.isUnstrategicControlPoint 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: CP_64_cmp_lagleize_reinforcements_axis]
+ObjectTemplate.create ControlPoint CP_64_cmp_lagleize_reinforcements_axis
+ObjectTemplate.activeSafe ControlPoint CP_64_cmp_lagleize_reinforcements_axis
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName CP_64_cmp_lagleize_reinforcements_axis
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 311
+ObjectTemplate.showOnMinimap 0
+ObjectTemplate.isUnstrategicControlPoint 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+if v_arg1 == host
+
+   rem [ControlPoint: cp_64_la_gleize_axis_main]
+   Object.create cp_64_la_gleize_axis_main
+   Object.absolutePosition 526.135/61.712/-626.212
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_river_farm]
+   Object.create cp_64_la_gleize_river_farm
+   Object.absolutePosition 290.862/42.119/-446.210
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_werimont]
+   Object.create cp_64_la_gleize_werimont
+   Object.absolutePosition 532.464/97.677/-163.449
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_church]
+   Object.create cp_64_la_gleize_church
+   Object.absolutePosition 424.997/95.519/84.404
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_defense_line]
+   Object.create cp_64_la_gleize_defense_line
+   Object.absolutePosition 123.083/72.801/101.837
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_station]
+   Object.create cp_64_la_gleize_station
+   Object.absolutePosition -115.944/58.956/-224.440
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_chapel]
+   Object.create cp_64_la_gleize_chapel
+   Object.absolutePosition -373.721/113.703/92.045
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_crash_site]
+   Object.create cp_64_la_gleize_crash_site
+   Object.absolutePosition -304.337/87.376/-53.755
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_allied_main]
+   Object.create cp_64_la_gleize_allied_main
+   Object.absolutePosition -613.687/101.268/-151.693
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_crossroads]
+   Object.create cp_64_la_gleize_crossroads
+   Object.absolutePosition 401.439/95.684/285.129
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_s1_lock]
+   Object.create cp_64_la_gleize_s1_lock
+   Object.absolutePosition -66.926/91.908/20.759
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_s2_lock]
+   Object.create cp_64_la_gleize_s2_lock
+   Object.absolutePosition 370.606/85.934/-49.733
+   Object.layer 2
+
+   rem [ControlPoint: CP_64_cmp_lagleize_froidcour]
+   Object.create CP_64_cmp_lagleize_froidcour
+   Object.absolutePosition -636.369/97.623/-176.779
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_station]
+   Object.create CP_64_cmp_lagleize_station
+   Object.absolutePosition -121.028/59.478/-222.356
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_farm]
+   Object.create CP_64_cmp_lagleize_farm
+   Object.absolutePosition 314.033/41.838/-475.360
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_town]
+   Object.create CP_64_cmp_lagleize_town
+   Object.absolutePosition 409.044/97.836/59.682
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_sawmill]
+   Object.create CP_64_cmp_lagleize_sawmill
+   Object.absolutePosition -422.503/192.718/718.344
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_hausoumont]
+   Object.create CP_64_cmp_lagleize_hausoumont
+   Object.absolutePosition 400.037/94.659/268.569
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_mainbase_allied]
+   Object.create CP_64_cmp_lagleize_mainbase_allied
+   Object.absolutePosition -565.260/37.361/-788.922
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_mainbase_axis]
+   Object.create CP_64_cmp_lagleize_mainbase_axis
+   Object.absolutePosition 871.067/101.595/863.813
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_forest]
+   Object.create CP_64_cmp_lagleize_forest
+   Object.absolutePosition -144.597/146.226/508.058
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_reinforcements_allied]
+   Object.create CP_64_cmp_lagleize_reinforcements_allied
+   Object.absolutePosition -806.518/50.592/-976.110
+   Object.layer 4
+
+   rem [ControlPoint: CP_64_cmp_lagleize_reinforcements_axis]
+   Object.create CP_64_cmp_lagleize_reinforcements_axis
+   Object.absolutePosition 857.691/104.347/886.981
+   Object.layer 4
+
+endIf
+
+CombatAreaManager.use 1
+CombatAreaManager.timeAllowedOutside 10.000000
+CombatArea.create CombatArea_0_Default
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.team 0
+CombatArea.vehicles 4
+CombatArea.layer 2
+
+CombatArea.create CombatArea_0_cmpt_cq64
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint -425.334106/939.567505
+CombatArea.addAreaPoint -692.475098/802.196533
+CombatArea.addAreaPoint -882.007813/465.986328
+CombatArea.addAreaPoint -855.074036/67.187256
+CombatArea.addAreaPoint -834.896973/-254.356262
+CombatArea.addAreaPoint -850.868469/-334.289978
+CombatArea.addAreaPoint -836.012878/-456.806580
+CombatArea.addAreaPoint -923.536560/-549.334106
+CombatArea.addAreaPoint -971.057068/-648.533691
+CombatArea.addAreaPoint -922.970703/-792.912231
+CombatArea.addAreaPoint -867.501526/-989.168884
+CombatArea.addAreaPoint -808.860535/-1005.486755
+CombatArea.addAreaPoint -742.903809/-974.672180
+CombatArea.addAreaPoint -654.070496/-888.604736
+CombatArea.addAreaPoint -531.341064/-853.428772
+CombatArea.addAreaPoint -415.057861/-868.809021
+CombatArea.addAreaPoint -416.973633/-981.075867
+CombatArea.addAreaPoint -386.827454/-1010.537903
+CombatArea.addAreaPoint -315.904053/-1002.829041
+CombatArea.addAreaPoint -280.165222/-997.795776
+CombatArea.addAreaPoint -237.062012/-971.248779
+CombatArea.addAreaPoint -185.363342/-920.216003
+CombatArea.addAreaPoint 37.825684/-933.248413
+CombatArea.addAreaPoint 364.458252/-904.207092
+CombatArea.addAreaPoint 733.368164/-825.120483
+CombatArea.addAreaPoint 862.213013/-638.062561
+CombatArea.addAreaPoint 788.403076/-482.424072
+CombatArea.addAreaPoint 933.484375/-87.027954
+CombatArea.addAreaPoint 950.116943/17.686523
+CombatArea.addAreaPoint 862.862061/126.527100
+CombatArea.addAreaPoint 780.382690/289.003784
+CombatArea.addAreaPoint 853.641479/481.847656
+CombatArea.addAreaPoint 927.661743/669.860962
+CombatArea.addAreaPoint 975.451782/789.672119
+CombatArea.addAreaPoint 953.439575/923.073364
+CombatArea.addAreaPoint 813.255981/942.870972
+CombatArea.addAreaPoint 472.755005/808.416260
+CombatArea.addAreaPoint 212.114258/959.877441
+CombatArea.addAreaPoint 135.073975/982.603271
+CombatArea.addAreaPoint 17.401611/976.882935
+CombatArea.addAreaPoint -124.065735/930.684082
+CombatArea.addAreaPoint -276.041138/896.802490
+CombatArea.team 0
+CombatArea.vehicles 4
+CombatArea.layer 4
+
+CombatArea.create CombatArea_42_cmpt_cq64
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint 399.561401/-897.724365
+CombatArea.addAreaPoint 249.288818/-702.643005
+CombatArea.addAreaPoint 49.499023/-543.664063
+CombatArea.addAreaPoint -123.621094/-466.186157
+CombatArea.addAreaPoint -290.813843/-455.535522
+CombatArea.addAreaPoint -366.380676/-417.005005
+CombatArea.addAreaPoint -522.491333/-546.873779
+CombatArea.addAreaPoint -833.333252/-459.433716
+CombatArea.addAreaPoint -923.816345/-550.165771
+CombatArea.addAreaPoint -970.726501/-648.504761
+CombatArea.addAreaPoint -868.743530/-987.721741
+CombatArea.addAreaPoint -808.787476/-1005.230347
+CombatArea.addAreaPoint -744.205933/-975.257080
+CombatArea.addAreaPoint -654.336792/-889.091675
+CombatArea.addAreaPoint -531.535645/-853.743835
+CombatArea.addAreaPoint -415.488159/-869.361145
+CombatArea.addAreaPoint -416.762085/-981.183411
+CombatArea.addAreaPoint -387.204773/-1010.095276
+CombatArea.addAreaPoint -280.667419/-998.119690
+CombatArea.addAreaPoint -236.996399/-971.142273
+CombatArea.addAreaPoint -185.848816/-920.877930
+CombatArea.addAreaPoint 37.844482/-933.410339
+CombatArea.team 1
+CombatArea.vehicles 4
+CombatArea.layer 4
+
+CombatArea.create CombatArea_64_cmpt_cq64
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint 812.766479/943.164795
+CombatArea.addAreaPoint 473.591919/808.671387
+CombatArea.addAreaPoint 533.437012/583.301880
+CombatArea.addAreaPoint 778.367798/287.515747
+CombatArea.addAreaPoint 975.614258/786.088623
+CombatArea.addAreaPoint 953.200073/922.676514
+CombatArea.team 2
+CombatArea.vehicles 4
+CombatArea.layer 4
+

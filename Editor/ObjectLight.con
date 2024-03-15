@@ -1,0 +1,18 @@
+rem ******** Lightmap Generation Settings ********
+if v_arg1 == BF2Editor
+
+LightMapGeneration.init
+LightMapGeneration.GILightsBaseDir 0/0.33/-0.66
+LightMapGeneration.GILightsIntensity 0.33
+LightMapGeneration.GILightsShadowIntensity 1
+LightMapGeneration.GILightsFov 45
+LightMapGeneration.UseGITopLight 1
+LightMapGeneration.GITopLightIntensity 0.1
+LightMapGeneration.GILightsViewDistance 10
+LightMapGeneration.skyWhite 0.3
+LightMapGeneration.numberOfGILights 8
+LightMapGeneration.sunLightShadowIntensity 1
+LightMapGeneration.sunLightFov 2
+LightMapGeneration.sunLightIntensity 1
+
+endIf

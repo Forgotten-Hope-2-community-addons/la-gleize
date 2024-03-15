@@ -1,0 +1,598 @@
+rem ********** Object Spawner **********
+rem [ObjectSpawnerTemplate: cp_64_la_gleize_allied_main_car_0]
+ObjectTemplate.create ObjectSpawner cp_64_la_gleize_allied_main_car_0
+ObjectTemplate.activeSafe ObjectSpawner cp_64_la_gleize_allied_main_car_0
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+rem [ObjectSpawnerTemplate: cp_64_la_gleize_axis_main_car_0]
+ObjectTemplate.create ObjectSpawner cp_64_la_gleize_axis_main_car_0
+ObjectTemplate.activeSafe ObjectSpawner cp_64_la_gleize_axis_main_car_0
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setObjectTemplate 1 kubelwagen_win
+ObjectTemplate.setObjectTemplate 2 willysmb_us_snow
+ObjectTemplate.minSpawnDelay 5
+ObjectTemplate.maxSpawnDelay 5
+
+if v_arg1 == host
+
+   rem [ObjectSpawner: cp_64_la_gleize_allied_main_car_0]
+   Object.create cp_64_la_gleize_allied_main_car_0
+   Object.absolutePosition -611.672/102.265/-134.716
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 10
+   Object.layer 2
+
+   rem [ObjectSpawner: cp_64_la_gleize_axis_main_car_0]
+   Object.create cp_64_la_gleize_axis_main_car_0
+   Object.absolutePosition 596.665/77.597/-592.946
+   Object.rotation 0.000/0.000/0.000
+   Object.setControlPointId 1
+   Object.layer 2
+
+endIf
+
+rem ********** Spawn Points **********
+rem [SpawnPointTemplate: cp_64_la_gleize_allied_main_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_allied_main_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_allied_main_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 10
+
+rem [SpawnPoint: cp_64_la_gleize_allied_main_1]
+Object.create cp_64_la_gleize_allied_main_1
+Object.absolutePosition -640.108/101.336/-128.422
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_allied_main_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_allied_main_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_allied_main_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 10
+
+rem [SpawnPoint: cp_64_la_gleize_allied_main_2]
+Object.create cp_64_la_gleize_allied_main_2
+Object.absolutePosition -582.331/101.443/-124.361
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_crash_site_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_crash_site_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_crash_site_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 9
+
+rem [SpawnPoint: cp_64_la_gleize_crash_site_1]
+Object.create cp_64_la_gleize_crash_site_1
+Object.absolutePosition -335.704/91.009/-47.614
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_crash_site_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_crash_site_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_crash_site_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 9
+
+rem [SpawnPoint: cp_64_la_gleize_crash_site_2]
+Object.create cp_64_la_gleize_crash_site_2
+Object.absolutePosition -272.525/83.681/-55.998
+Object.rotation 131.372/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_chapel_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_chapel_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_chapel_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 8
+
+rem [SpawnPoint: cp_64_la_gleize_chapel_1]
+Object.create cp_64_la_gleize_chapel_1
+Object.absolutePosition -403.347/116.237/89.536
+Object.rotation 85.159/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_chapel_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_chapel_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_chapel_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 8
+
+rem [SpawnPoint: cp_64_la_gleize_chapel_2]
+Object.create cp_64_la_gleize_chapel_2
+Object.absolutePosition -350.605/114.717/107.834
+Object.rotation -124.335/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_defense_line_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_defense_line_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_defense_line_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 6
+
+rem [SpawnPoint: cp_64_la_gleize_defense_line_2]
+Object.create cp_64_la_gleize_defense_line_2
+Object.absolutePosition 95.059/74.401/91.262
+Object.rotation 69.327/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_defense_line_3]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_defense_line_3
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_defense_line_3
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 6
+
+rem [SpawnPoint: cp_64_la_gleize_defense_line_3]
+Object.create cp_64_la_gleize_defense_line_3
+Object.absolutePosition 143.865/72.275/125.845
+Object.rotation 69.327/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_station_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_station_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_station_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 7
+
+rem [SpawnPoint: cp_64_la_gleize_station_1]
+Object.create cp_64_la_gleize_station_1
+Object.absolutePosition -151.461/56.412/-230.723
+Object.rotation 79.968/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_station_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_station_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_station_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 7
+
+rem [SpawnPoint: cp_64_la_gleize_station_2]
+Object.create cp_64_la_gleize_station_2
+Object.absolutePosition -81.258/59.660/-220.592
+Object.rotation -96.330/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_river_farm_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_river_farm_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_river_farm_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 2
+
+rem [SpawnPoint: cp_64_la_gleize_river_farm_1]
+Object.create cp_64_la_gleize_river_farm_1
+Object.absolutePosition 251.286/39.707/-452.094
+Object.rotation 81.544/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_river_farm_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_river_farm_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_river_farm_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 2
+
+rem [SpawnPoint: cp_64_la_gleize_river_farm_2]
+Object.create cp_64_la_gleize_river_farm_2
+Object.absolutePosition 327.512/44.328/-446.829
+Object.rotation -89.033/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_church_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_church_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_church_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 4
+
+rem [SpawnPoint: cp_64_la_gleize_church_1]
+Object.create cp_64_la_gleize_church_1
+Object.absolutePosition 397.616/95.230/107.790
+Object.rotation 130.501/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_church_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_church_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_church_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 4
+
+rem [SpawnPoint: cp_64_la_gleize_church_2]
+Object.create cp_64_la_gleize_church_2
+Object.absolutePosition 461.729/91.195/82.486
+Object.rotation -87.011/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_werimont_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_werimont_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_werimont_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 3
+
+rem [SpawnPoint: cp_64_la_gleize_werimont_2]
+Object.create cp_64_la_gleize_werimont_2
+Object.absolutePosition 495.756/99.298/-165.817
+Object.rotation 86.309/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_werimont_2_3]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_werimont_2_3
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_werimont_2_3
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 3
+
+rem [SpawnPoint: cp_64_la_gleize_werimont_2_3]
+Object.create cp_64_la_gleize_werimont_2_3
+Object.absolutePosition 569.285/93.092/-158.438
+Object.rotation -97.749/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_axis_main_1]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_axis_main_1
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_axis_main_1
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cp_64_la_gleize_axis_main_1]
+Object.create cp_64_la_gleize_axis_main_1
+Object.absolutePosition 593.361/77.486/-599.809
+Object.rotation -118.640/0.000/0.000
+Object.layer 2
+
+rem [SpawnPointTemplate: cp_64_la_gleize_axis_main_2]
+ObjectTemplate.create SpawnPoint cp_64_la_gleize_axis_main_2
+ObjectTemplate.activeSafe SpawnPoint cp_64_la_gleize_axis_main_2
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.setSpawnPositionOffset 0/1.25/0
+ObjectTemplate.setGroup 1
+ObjectTemplate.setControlPointId 1
+
+rem [SpawnPoint: cp_64_la_gleize_axis_main_2]
+Object.create cp_64_la_gleize_axis_main_2
+Object.absolutePosition 470.148/45.986/-651.269
+Object.rotation 3.103/0.000/0.000
+Object.layer 2
+
+rem ********** Control Points **********
+rem [ControlPointTemplate: cp_64_la_gleize_axis_main]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_axis_main
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_axis_main
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_axis_main
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 1
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_river_farm]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_river_farm
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_river_farm
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_river_farm
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 2
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_werimont]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_werimont
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_werimont
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_werimont
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 3
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_church]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_church
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_church
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_church
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 4
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_defense_line]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_defense_line
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_defense_line
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_defense_line
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 6
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_station]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_station
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_station
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_station
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 7
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_chapel]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_chapel
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_chapel
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_chapel
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 8
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_crash_site]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_crash_site
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_crash_site
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_crash_site
+ObjectTemplate.radius 40
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 9
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_allied_main]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_allied_main
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_allied_main
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.hasCollisionPhysics 1
+ObjectTemplate.physicsType Mesh
+rem -------------------------------------
+ObjectTemplate.addTemplate flagpole
+rem -------------------------------------
+ObjectTemplate.setControlPointName cp_64_la_gleize_allied_main
+ObjectTemplate.radius 50
+ObjectTemplate.team 1
+ObjectTemplate.controlPointId 10
+ObjectTemplate.unableToChangeTeam 1
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+rem [ControlPointTemplate: cp_64_la_gleize_crossroads]
+ObjectTemplate.create ControlPoint cp_64_la_gleize_crossroads
+ObjectTemplate.activeSafe ControlPoint cp_64_la_gleize_crossroads
+ObjectTemplate.modifiedByUser "�lex"
+ObjectTemplate.setNetworkableInfo ControlPointInfo
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.setControlPointName cp_64_la_gleize_crossroads
+ObjectTemplate.radius 40
+ObjectTemplate.hoistMinMax 0.2/0.9
+
+if v_arg1 == host
+
+   rem [ControlPoint: cp_64_la_gleize_axis_main]
+   Object.create cp_64_la_gleize_axis_main
+   Object.absolutePosition 526.135/61.712/-626.212
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_river_farm]
+   Object.create cp_64_la_gleize_river_farm
+   Object.absolutePosition 290.862/42.119/-446.210
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_werimont]
+   Object.create cp_64_la_gleize_werimont
+   Object.absolutePosition 532.464/97.677/-163.449
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_church]
+   Object.create cp_64_la_gleize_church
+   Object.absolutePosition 424.997/95.519/84.404
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_defense_line]
+   Object.create cp_64_la_gleize_defense_line
+   Object.absolutePosition 123.083/72.801/101.837
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_station]
+   Object.create cp_64_la_gleize_station
+   Object.absolutePosition -115.944/58.956/-224.440
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_chapel]
+   Object.create cp_64_la_gleize_chapel
+   Object.absolutePosition -373.721/113.703/92.045
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_crash_site]
+   Object.create cp_64_la_gleize_crash_site
+   Object.absolutePosition -304.337/87.376/-53.755
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_allied_main]
+   Object.create cp_64_la_gleize_allied_main
+   Object.absolutePosition -613.687/101.268/-151.693
+   Object.layer 2
+
+   rem [ControlPoint: cp_64_la_gleize_crossroads]
+   Object.create cp_64_la_gleize_crossroads
+   Object.absolutePosition 401.439/95.684/285.129
+   Object.layer 2
+
+endIf
+
+CombatAreaManager.use 1
+CombatAreaManager.timeAllowedOutside 10.000000
+CombatArea.create CombatArea_0_Default
+CombatArea.min 0.000000/0.000000
+CombatArea.max 0.000000/0.000000
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.addAreaPoint 556.046753/454.037964
+CombatArea.addAreaPoint 193.843628/526.684326
+CombatArea.addAreaPoint -21.675049/444.621948
+CombatArea.addAreaPoint -196.669922/373.109131
+CombatArea.addAreaPoint -321.571655/321.930908
+CombatArea.addAreaPoint -494.354614/255.255493
+CombatArea.addAreaPoint -613.997986/216.988770
+CombatArea.addAreaPoint -854.603821/94.745972
+CombatArea.addAreaPoint -829.099182/-87.721436
+CombatArea.addAreaPoint -722.492615/-345.779785
+CombatArea.addAreaPoint -340.532837/-413.857971
+CombatArea.addAreaPoint -110.391785/-313.818542
+CombatArea.addAreaPoint 442.137573/-769.511353
+CombatArea.addAreaPoint 748.974731/-737.789063
+CombatArea.addAreaPoint 757.167358/-411.626648
+CombatArea.addAreaPoint 830.563965/-45.592163
+CombatArea.team 0
+CombatArea.vehicles 4
+CombatArea.layer 2
+

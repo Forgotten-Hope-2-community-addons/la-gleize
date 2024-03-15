@@ -1,0 +1,24 @@
+if v_arg1 == BF2Editor
+terrain.create TerrainEditable
+terrain.patchSize 128
+terrain.subdividePatches 1
+terrain.primaryWorldScale 2/0.00915527/2
+terrain.secondaryWorldScale 8/2.34375/8
+terrain.patchColormapSize 512
+terrain.lowDetailmapSize 512
+terrain.detailmapBaseName "Levels/la_gleize/Detailmaps/tx"
+terrain.lowDetailmapBaseName "Levels/la_gleize/LowDetailmaps/tx"
+terrain.colormapBaseName "Levels/la_gleize/Colormaps/tx"
+terrain.lightmapBaseName "Levels/la_gleize/Lightmaps/tx"
+terrain.farSideTiling 2/2
+terrain.farTopTilingHi 16
+terrain.farTopTilingLow 32
+terrain.farYOffset 0
+terrain.terrainWaterColor 1/1/1
+terrain.init
+
+else
+terrain.create Terrain
+terrain.load Levels/la_gleize/terraindata.raw
+endIf
+

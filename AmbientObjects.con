@@ -1,0 +1,9 @@
+rem *********** TriggerTrigger ***********
+
+rem ********** AmbientEffectArea **********
+
+rem ************ AmbientSounds ************
+
+if v_arg1 == BF2Editor
+
+endIf

@@ -1,0 +1,613 @@
+rem ** [Road] - main_05**
+Road.CreateInstance "main_05" 1 "stvith_tarmac_road" 1671831439
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 1
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_05**
+Road.CreateInstance "mudroad_05" 2 "eppeldorf_mudroad" 1705957276
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mud_road_04**
+Road.CreateInstance "mud_road_04" 3 "eppeldorf_mudroad" 1705958176
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_03**
+Road.CreateInstance "mudroad_03" 4 "eppeldorf_mudroad" 1671831930
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_04**
+Road.CreateInstance "mudroad_04" 5 "eppeldorf_mudroad" 1703957723
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_08**
+Road.CreateInstance "main_08" 8 "stvith_tarmac_road" 1671831471
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 1
+Road.FadeDistAtStartLeft 1/5
+Road.FadeDistAtStartRight 1/10
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_06**
+Road.CreateInstance "mudroad_06" 9 "eppeldorf_mudroad" 1703957846
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_07**
+Road.CreateInstance "mudroad_07" 10 "eppeldorf_mudroad" 1703957876
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_14**
+Road.CreateInstance "mudroad_14" 11 "eppeldorf_mudroad" 1708962798
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_03**
+Road.CreateInstance "main_03" 12 "stvith_tarmac_road" 1671831391
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_02**
+Road.CreateInstance "main_02" 13 "stvith_tarmac_road" 1671831367
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - town_path_03**
+Road.CreateInstance "town_path_03" 15 "gold_rubble" 1706993204
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_07**
+Road.CreateInstance "main_07" 16 "stvith_tarmac_road" 1671831464
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_08**
+Road.CreateInstance "mudroad_08" 19 "eppeldorf_mudroad" 1703958184
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 1
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_09**
+Road.CreateInstance "mudroad_09" 20 "eppeldorf_mudroad" 1703958199
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_02**
+Road.CreateInstance "mudroad_02" 21 "eppeldorf_mudroad" 1671831902
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_10**
+Road.CreateInstance "mudroad_10" 22 "eppeldorf_mudroad" 1703958204
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_01**
+Road.CreateInstance "mudroad_01" 23 "eppeldorf_mudroad" 1671831890
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - railroad_main**
+Road.CreateInstance "railroad_main" 24 "tramway" 1704234536
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - town_path_01**
+Road.CreateInstance "town_path_01" 25 "gold_rubble" 1706993193
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - town_path_02**
+Road.CreateInstance "town_path_02" 26 "gold_rubble" 1706993199
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - town_path_04**
+Road.CreateInstance "town_path_04" 27 "gold_rubble" 1706993208
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_11**
+Road.CreateInstance "mudroad_11" 28 "eppeldorf_mudroad" 1704219659
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - railroad_off_01**
+Road.CreateInstance "railroad_off_01" 30 "tramway" 1704234650
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - house_road_00**
+Road.CreateInstance "house_road_00" 31 "eppeldorf_smallroad" 1704324109
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mainroad_08**
+Road.CreateInstance "mainroad_08" 32 "stvith_tarmac_road" 1705956677
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_00**
+Road.CreateInstance "mudroad_00" 33 "eppeldorf_mudroad" 1705957206
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - dirt_road_00**
+Road.CreateInstance "dirt_road_00" 34 "eppeldorf_mudroad" 1705956520
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - dirt_road_01**
+Road.CreateInstance "dirt_road_01" 35 "eppeldorf_mudroad" 1705956512
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_20**
+Road.CreateInstance "main_20" 36 "stvith_tarmac_road" 1710199668
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_12**
+Road.CreateInstance "mudroad_12" 39 "eppeldorf_mudroad" 1705957356
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - dirt_road_02**
+Road.CreateInstance "dirt_road_02" 40 "eppeldorf_mudroad" 1705956405
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mainroad_09**
+Road.CreateInstance "mainroad_09" 41 "stvith_tarmac_road" 1705956860
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - forest_path_02**
+Road.CreateInstance "forest_path_02" 42 "gold_rubble" 1705957768
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 0
+Road.Prio 0
+Road.FadeDistAtStartLeft 1/5
+Road.FadeDistAtStartRight 1/10
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - forest_path_00**
+Road.CreateInstance "forest_path_00" 43 "gold_rubble" 1705958073
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_13**
+Road.CreateInstance "mudroad_13" 44 "eppeldorf_mudroad" 1705958470
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - forest_path_03**
+Road.CreateInstance "forest_path_03" 45 "pdh_path" 1706654015
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_03**
+Road.CreateInstance "footprints_03" 46 "stvith_footsprint" 1709151219
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_02**
+Road.CreateInstance "footprints_02" 47 "stvith_footsprint" 1709151198
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_16**
+Road.CreateInstance "mudroad_16" 48 "eppeldorf_mudroad" 1706048429
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_17**
+Road.CreateInstance "mudroad_17" 54 "eppeldorf_mudroad" 1706048944
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_18**
+Road.CreateInstance "mudroad_18" 55 "eppeldorf_mudroad" 1706049153
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - forest_path_04**
+Road.CreateInstance "forest_path_04" 56 "gold_rubble" 1706652481
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - forest_path_05**
+Road.CreateInstance "forest_path_05" 58 "gold_rubble" 1706653536
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - main_01**
+Road.CreateInstance "main_01" 59 "stvith_tarmac_road" 1709155556
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_00**
+Road.CreateInstance "footprints_00" 61 "stvith_footsprint" 1709135455
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_01**
+Road.CreateInstance "footprints_01" 62 "stvith_footsprint" 1709139264
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - farm_road_00**
+Road.CreateInstance "farm_road_00" 63 "eppeldorf_mudroad" 1709337235
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - mudroad_23**
+Road.CreateInstance "mudroad_23" 64 "eppeldorf_mudroad" 1709678019
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - track_00**
+Road.CreateInstance "track_00" 65 "tanktrack" 1709340363
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_04**
+Road.CreateInstance "footprints_04" 71 "stvith_footsprint" 1710198615
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+

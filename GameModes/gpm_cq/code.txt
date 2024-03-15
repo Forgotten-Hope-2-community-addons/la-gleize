@@ -1,0 +1,2 @@
+run ../../../sky_16.con v_arg1
+run ../../../AmbientObjects_night.con v_arg1

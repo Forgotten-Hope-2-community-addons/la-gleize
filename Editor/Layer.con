@@ -1,0 +1,18 @@
+rem ******** gpm_cq64 ********
+LayerManager.AddUserLayer "gpm_cq64" 4 2 0 1
+LayerManager.SetLocked 1
+LayerManager.SetDisabled 1
+
+rem ******** temp ********
+LayerManager.AddUserLayer "temp" 8 3 1 1
+LayerManager.SetLocked 0
+LayerManager.SetDisabled 1
+
+rem ******** cmpt_cq64 ********
+LayerManager.AddUserLayer "cmpt_cq64" 16 4 0 1
+LayerManager.SetLocked 1
+LayerManager.SetDisabled 0
+LayerManager.AddGameModeFilter "gpm_cq"
+LayerManager.AddPlayerFilter "64"
+
+
