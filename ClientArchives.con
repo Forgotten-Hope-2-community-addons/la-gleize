@@ -1,0 +1,2 @@
+fileManager.mountArchive levels/bastogne/noise.zip Common
+fileManager.mountArchive levels/bastogne/textures.zip Objects

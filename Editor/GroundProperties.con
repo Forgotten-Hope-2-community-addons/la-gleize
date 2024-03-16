@@ -1,47 +1,47 @@
-GroundProperties.SetDetailTexture 0 "common\terrain\textures\detail\pegasus_grass_detail.dds"
+GroundProperties.SetDetailTexture 0 "common\terrain\textures\detail\outsmoother.dds"
 GroundProperties.SetColor 0 85 85 85
-GroundProperties.SetMaterial 0 Grass
-GroundProperties.SetTopTiling 0 64
+GroundProperties.SetMaterial 0 Snow
+GroundProperties.SetTopTiling 0 128
 GroundProperties.SetSideTiling 0 2/2
 GroundProperties.SetYOffset 0 0
 GroundProperties.SetPlaneMap 0 0
 GroundProperties.SetColorTiling 0 1/1
 GroundProperties.SetLowDetailType 0 1
 GroundProperties.SetEnvMap 0 0
-GroundProperties.SetDetailTexture 1 "common\terrain\textures\detail\detail_fh2_forestground.dds"
+GroundProperties.SetDetailTexture 1 "common\terrain\textures\detail\meuse_3_snowgrass.dds"
 GroundProperties.SetColor 1 82 82 82
 GroundProperties.SetMaterial 1 Dry_leaves_on_ground
-GroundProperties.SetTopTiling 1 64
+GroundProperties.SetTopTiling 1 128
 GroundProperties.SetSideTiling 1 2/2
 GroundProperties.SetYOffset 1 0
 GroundProperties.SetPlaneMap 1 0
 GroundProperties.SetColorTiling 1 1/1
 GroundProperties.SetLowDetailType 1 1
 GroundProperties.SetEnvMap 1 0
-GroundProperties.SetDetailTexture 2 "common\terrain\textures\detail\detail_fh2_dirt3.dds"
+GroundProperties.SetDetailTexture 2 "common\terrain\textures\detail\nordwind_snowgrass.dds"
 GroundProperties.SetColor 2 91 91 91
-GroundProperties.SetMaterial 2 Dirt
-GroundProperties.SetTopTiling 2 75
+GroundProperties.SetMaterial 2 Mud_wet
+GroundProperties.SetTopTiling 2 6
 GroundProperties.SetSideTiling 2 2/2
 GroundProperties.SetYOffset 2 0
 GroundProperties.SetPlaneMap 2 0
 GroundProperties.SetColorTiling 2 1/1
 GroundProperties.SetLowDetailType 2 1
 GroundProperties.SetEnvMap 2 0
-GroundProperties.SetDetailTexture 3 "common\terrain\textures\detail\detail_mud01.dds"
+GroundProperties.SetDetailTexture 3 "common\terrain\textures\detail\detail_mudsnow_siegfried_line.dds"
 GroundProperties.SetColor 3 82 82 82
 GroundProperties.SetMaterial 3 Water_puddle
-GroundProperties.SetTopTiling 3 32
+GroundProperties.SetTopTiling 3 64
 GroundProperties.SetSideTiling 3 2/2
 GroundProperties.SetYOffset 3 0
 GroundProperties.SetPlaneMap 3 0
 GroundProperties.SetColorTiling 3 1/1
 GroundProperties.SetLowDetailType 3 1
 GroundProperties.SetEnvMap 3 0
-GroundProperties.SetDetailTexture 4 "common\terrain\textures\detail\hurtgen_wood.dds"
+GroundProperties.SetDetailTexture 4 "common\terrain\textures\detail\detail_fh2_snow1.dds"
 GroundProperties.SetColor 4 83 83 83
 GroundProperties.SetMaterial 4 Grass
-GroundProperties.SetTopTiling 4 32
+GroundProperties.SetTopTiling 4 72
 GroundProperties.SetSideTiling 4 2/2
 GroundProperties.SetYOffset 4 0
 GroundProperties.SetPlaneMap 4 0
@@ -51,12 +51,12 @@ GroundProperties.SetEnvMap 4 0
 GroundProperties.SetDetailTexture 5 "common\terrain\textures\detail\detail_cobble3.dds"
 GroundProperties.SetColor 5 89 89 89
 GroundProperties.SetMaterial 5 rock
-GroundProperties.SetTopTiling 5 32
+GroundProperties.SetTopTiling 5 128
 GroundProperties.SetSideTiling 5 2/2
 GroundProperties.SetYOffset 5 0
 GroundProperties.SetPlaneMap 5 0
 GroundProperties.SetColorTiling 5 1/1
-GroundProperties.SetLowDetailType 5 2
+GroundProperties.SetLowDetailType 5 1
 GroundProperties.SetEnvMap 5 0
 
 MiscGroundProperties.SetFarTopTilingHi 16

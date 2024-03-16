@@ -36,13 +36,13 @@ heightmapcluster.addHeightmap Heightmap -1 0
 heightmap.setSize 257 257
 heightmap.setScale 8/2.34375/8
 heightmap.setBitResolution 8
-heightmap.setModified 1
+heightmap.setModified 0
 heightmap.loadHeightData Levels/la_gleize/HeightmapSecondary_L1.raw
 heightmapcluster.addHeightmap Heightmap 1 0
 heightmap.setSize 257 257
 heightmap.setScale 8/2.34375/8
 heightmap.setBitResolution 8
-heightmap.setModified 1
+heightmap.setModified 0
 heightmap.loadHeightData Levels/la_gleize/HeightmapSecondary_R1.raw
 
 heightmapcluster.addHeightmap Heightmap -1 1

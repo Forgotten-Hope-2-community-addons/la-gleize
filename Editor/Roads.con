@@ -286,8 +286,8 @@ Road.FadeDistAtStartRight 0/3
 Road.FadeDistAtEndLeft 0/3
 Road.FadeDistAtEndRight 0/3
 
-rem ** [Road] - house_road_00**
-Road.CreateInstance "house_road_00" 31 "eppeldorf_smallroad" 1704324109
+rem ** [Road] - footprints_05**
+Road.CreateInstance "footprints_05" 31 "stvith_footsprint" 1710553732
 Road.SetTextureScaleOffset 0/0
 Road.SetPersistance 0.2
 Road.SetRange -0.15/0.15
@@ -600,6 +600,18 @@ Road.FadeDistAtEndRight 0/3
 
 rem ** [Road] - footprints_04**
 Road.CreateInstance "footprints_04" 71 "stvith_footsprint" 1710198615
+Road.SetTextureScaleOffset 0/0
+Road.SetPersistance 0.2
+Road.SetRange -0.15/0.15
+Road.SetOctaves 3
+Road.Prio 0
+Road.FadeDistAtStartLeft 0/3
+Road.FadeDistAtStartRight 0/3
+Road.FadeDistAtEndLeft 0/3
+Road.FadeDistAtEndRight 0/3
+
+rem ** [Road] - footprints_06**
+Road.CreateInstance "footprints_06" 72 "stvith_footsprint" 1710554319
 Road.SetTextureScaleOffset 0/0
 Road.SetPersistance 0.2
 Road.SetRange -0.15/0.15

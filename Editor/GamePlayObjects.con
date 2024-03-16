@@ -31,6 +31,7 @@ ObjectTemplate.setObjectTemplate 1 kingtiger_1944fall
 ObjectTemplate.setObjectTemplate 2 m4a3e2_jumbo76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_artillery_mobile]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_artillery_mobile
@@ -42,6 +43,7 @@ ObjectTemplate.setObjectTemplate 1 wespe
 ObjectTemplate.setObjectTemplate 2 m7_priest
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A1
@@ -53,6 +55,7 @@ ObjectTemplate.setObjectTemplate 1 panther_g_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_A2
@@ -64,6 +67,7 @@ ObjectTemplate.setObjectTemplate 1 panther_g_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_medium_B1
@@ -75,6 +79,7 @@ ObjectTemplate.setObjectTemplate 1 pzivh_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_105
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_tank_hunter]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_tank_hunter
@@ -86,6 +91,7 @@ ObjectTemplate.setObjectTemplate 1 jagdpanzeriv_mid
 ObjectTemplate.setObjectTemplate 2 m36
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_halftrack_01]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_halftrack_01
@@ -152,6 +158,7 @@ ObjectTemplate.setObjectTemplate 1 puma_ard
 ObjectTemplate.setObjectTemplate 2 m24_chaffee
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_allied_truck_ammo]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_allied_truck_ammo
@@ -185,6 +192,7 @@ ObjectTemplate.setObjectTemplate 1 kingtiger_1944fall
 ObjectTemplate.setObjectTemplate 2 m4a3e2_jumbo76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A1
@@ -196,6 +204,7 @@ ObjectTemplate.setObjectTemplate 1 panther_g_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_A2
@@ -207,6 +216,7 @@ ObjectTemplate.setObjectTemplate 1 panther_g_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_76
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_medium_B1
@@ -218,6 +228,7 @@ ObjectTemplate.setObjectTemplate 1 pzivh_ard
 ObjectTemplate.setObjectTemplate 2 m4a3_105
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_recon]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_recon
@@ -306,6 +317,7 @@ ObjectTemplate.setObjectTemplate 1 wespe
 ObjectTemplate.setObjectTemplate 2 m7_priest
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_reinforcements_allied_1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_reinforcements_allied_1
@@ -317,6 +329,7 @@ ObjectTemplate.setObjectTemplate 1 autogyro
 ObjectTemplate.setObjectTemplate 2 autogyro
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_reinforcements_axis_1]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_reinforcements_axis_1
@@ -328,6 +341,7 @@ ObjectTemplate.setObjectTemplate 1 autogyro
 ObjectTemplate.setObjectTemplate 2 autogyro
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_mainbase_axis_tank_hunter]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_mainbase_axis_tank_hunter
@@ -339,6 +353,7 @@ ObjectTemplate.setObjectTemplate 1 jagdpanzeriv_mid
 ObjectTemplate.setObjectTemplate 2 m36
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_sawmill_transport_01]
 ObjectTemplate.create ObjectSpawner CP_64_cmp_lagleize_sawmill_transport_01
@@ -469,29 +484,29 @@ if v_arg1 == host
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_03]
    Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_03
-   Object.absolutePosition -338.099/35.954/-910.605
+   Object.absolutePosition -350.246/38.410/-910.744
    Object.rotation 0.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_jeep_01]
    Object.create CP_64_cmp_lagleize_mainbase_allied_jeep_01
-   Object.absolutePosition -343.169/36.312/-921.416
+   Object.absolutePosition -349.739/39.694/-923.530
    Object.rotation 0.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_jeep_02]
    Object.create CP_64_cmp_lagleize_mainbase_allied_jeep_02
-   Object.absolutePosition -345.245/37.290/-930.871
+   Object.absolutePosition -348.933/40.500/-931.542
    Object.rotation 0.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_recon]
    Object.create CP_64_cmp_lagleize_mainbase_allied_recon
-   Object.absolutePosition -353.956/33.397/-896.317
-   Object.rotation 0.000/0.000/0.000
+   Object.absolutePosition -351.353/37.370/-898.114
+   Object.rotation -7.378/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
@@ -595,14 +610,14 @@ if v_arg1 == host
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_reinforcements_allied_1]
    Object.create CP_64_cmp_lagleize_reinforcements_allied_1
-   Object.absolutePosition -793.221/52.835/-979.808
+   Object.absolutePosition -843.490/60.448/-951.171
    Object.rotation 0.000/0.000/0.000
    Object.setControlPointId 310
    Object.layer 4
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_reinforcements_axis_1]
    Object.create CP_64_cmp_lagleize_reinforcements_axis_1
-   Object.absolutePosition 859.733/116.138/970.218
+   Object.absolutePosition 862.805/108.686/928.547
    Object.rotation -169.498/0.000/0.000
    Object.setControlPointId 311
    Object.layer 4
@@ -1560,7 +1575,7 @@ if v_arg1 == host
 
    rem [ControlPoint: CP_64_cmp_lagleize_mainbase_axis]
    Object.create CP_64_cmp_lagleize_mainbase_axis
-   Object.absolutePosition 871.067/101.595/863.813
+   Object.absolutePosition 870.847/100.727/854.119
    Object.layer 4
 
    rem [ControlPoint: CP_64_cmp_lagleize_forest]
@@ -1570,12 +1585,12 @@ if v_arg1 == host
 
    rem [ControlPoint: CP_64_cmp_lagleize_reinforcements_allied]
    Object.create CP_64_cmp_lagleize_reinforcements_allied
-   Object.absolutePosition -806.518/50.592/-976.110
+   Object.absolutePosition -349.711/40.383/-963.114
    Object.layer 4
 
    rem [ControlPoint: CP_64_cmp_lagleize_reinforcements_axis]
    Object.create CP_64_cmp_lagleize_reinforcements_axis
-   Object.absolutePosition 857.691/104.347/886.981
+   Object.absolutePosition 905.758/101.079/891.843
    Object.layer 4
 
 endIf

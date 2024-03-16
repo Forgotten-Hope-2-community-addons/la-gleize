@@ -4,7 +4,7 @@ object.absoluteposition -345.011/104.226/70.6686
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_05_compiled.mesh
-object.absoluteposition -123.848/75.7667/-101.927
+object.absoluteposition -123.848/75.7632/-101.927
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mud_road_04_compiled.mesh
@@ -20,11 +20,11 @@ object.absoluteposition -515.427/99.2305/-74.9713
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\main_08_compiled.mesh
-object.absoluteposition 347.729/43.7412/-489.165
+object.absoluteposition 347.748/43.7432/-489.177
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_06_compiled.mesh
-object.absoluteposition 175.142/68.2981/23.5279
+object.absoluteposition 175.135/68.2976/23.5266
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_07_compiled.mesh
@@ -32,15 +32,15 @@ object.absoluteposition 323.402/83.513/204.049
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_14_compiled.mesh
-object.absoluteposition 616.002/84.0238/330.235
+object.absoluteposition 615.464/84.0716/330.025
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\main_03_compiled.mesh
-object.absoluteposition 679.866/80.5141/253.031
+object.absoluteposition 679.866/80.6203/253.031
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\main_02_compiled.mesh
-object.absoluteposition 423.871/95.3609/114.688
+object.absoluteposition 423.876/95.3822/114.663
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\town_path_03_compiled.mesh
@@ -48,31 +48,31 @@ object.absoluteposition 437.967/92.7546/-72.5877
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\main_07_compiled.mesh
-object.absoluteposition 512.632/81.8207/-255.777
+object.absoluteposition 512.779/81.8049/-255.369
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_08_compiled.mesh
-object.absoluteposition 660.723/98.5998/608.06
+object.absoluteposition 660.723/98.5847/608.06
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_09_compiled.mesh
-object.absoluteposition 478.666/106.246/522.325
+object.absoluteposition 478.666/106.256/522.325
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_02_compiled.mesh
-object.absoluteposition 480.789/101.046/380.072
+object.absoluteposition 480.789/101.057/380.072
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_10_compiled.mesh
-object.absoluteposition 346.603/113.967/404.326
+object.absoluteposition 346.603/113.934/404.326
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_01_compiled.mesh
-object.absoluteposition 361.959/121.568/473.965
+object.absoluteposition 361.959/121.62/473.965
 
 object.create tramway
 object.geometry.loadMesh Levels\la_gleize\Roads\railroad_main_compiled.mesh
-object.absoluteposition 34.0815/52.5734/-440.343
+object.absoluteposition 34.0815/52.5432/-440.343
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\town_path_01_compiled.mesh
@@ -80,23 +80,23 @@ object.absoluteposition 406.754/89.1401/-38.8315
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\town_path_02_compiled.mesh
-object.absoluteposition 475.301/91.5432/-30.5858
+object.absoluteposition 475.301/91.5407/-30.5858
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\town_path_04_compiled.mesh
-object.absoluteposition 483.896/99.0302/-101.749
+object.absoluteposition 483.896/99.0331/-101.749
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_11_compiled.mesh
-object.absoluteposition 428.241/95.4436/120.251
+object.absoluteposition 428.241/95.4454/120.251
 
 object.create tramway
 object.geometry.loadMesh Levels\la_gleize\Roads\railroad_off_01_compiled.mesh
 object.absoluteposition 866.38/59.6788/-502.389
 
-object.create eppeldorf_smallroad
-object.geometry.loadMesh Levels\la_gleize\Roads\house_road_00_compiled.mesh
-object.absoluteposition 512.813/56.5769/-604.464
+object.create stvith_footsprint
+object.geometry.loadMesh Levels\la_gleize\Roads\footprints_05_compiled.mesh
+object.absoluteposition 516.43/57.7131/-605.096
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\mainroad_08_compiled.mesh
@@ -136,7 +136,7 @@ object.absoluteposition 294.738/70.497/-278.172
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\forest_path_00_compiled.mesh
-object.absoluteposition 382.421/75.0953/-331.475
+object.absoluteposition 382.421/75.0842/-331.475
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_13_compiled.mesh
@@ -172,11 +172,11 @@ object.absoluteposition 215.236/55.2585/-296.603
 
 object.create gold_rubble
 object.geometry.loadMesh Levels\la_gleize\Roads\forest_path_05_compiled.mesh
-object.absoluteposition 431.653/72.961/-353.284
+object.absoluteposition 431.653/72.9596/-353.284
 
 object.create stvith_tarmac_road
 object.geometry.loadMesh Levels\la_gleize\Roads\main_01_compiled.mesh
-object.absoluteposition -215.042/69.2793/-182.554
+object.absoluteposition -215.042/69.2803/-182.554
 
 object.create stvith_footsprint
 object.geometry.loadMesh Levels\la_gleize\Roads\footprints_00_compiled.mesh
@@ -192,7 +192,7 @@ object.absoluteposition 627.228/92.0162/-61.6387
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_23_compiled.mesh
-object.absoluteposition 837.58/67.5862/-17.3912
+object.absoluteposition 837.54/67.5971/-17.423
 
 object.create tanktrack
 object.geometry.loadMesh Levels\la_gleize\Roads\track_00_compiled.mesh
@@ -201,4 +201,8 @@ object.absoluteposition 683.043/87.3033/-54.6832
 object.create stvith_footsprint
 object.geometry.loadMesh Levels\la_gleize\Roads\footprints_04_compiled.mesh
 object.absoluteposition 254.186/36.5053/-461.834
+
+object.create stvith_footsprint
+object.geometry.loadMesh Levels\la_gleize\Roads\footprints_06_compiled.mesh
+object.absoluteposition 407.455/95.1489/129.009
 

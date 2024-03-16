@@ -1,9 +1,1835 @@
 rem *********** TriggerTrigger ***********
 
+rem [TriggerTemplate: Trigger_Churchbells]
+ObjectTemplate.create Trigger Trigger_Churchbells
+ObjectTemplate.activeSafe Trigger Trigger_Churchbells
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 1
+ObjectTemplate.radius 100
+ObjectTemplate.events 10
+ObjectTemplate.averageTimeBetweenTests 60
+ObjectTemplate.chance 0.75
+ObjectTemplate.minimumTimeBetweenTriggering 120
+
+rem [TriggerTemplate: Trigger_Neffe_Tunnel]
+ObjectTemplate.create Trigger Trigger_Neffe_Tunnel
+ObjectTemplate.activeSafe Trigger Trigger_Neffe_Tunnel
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 3
+ObjectTemplate.radius 10
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+rem [TriggerTemplate: Trigger_Neffe]
+ObjectTemplate.create Trigger Trigger_Neffe
+ObjectTemplate.activeSafe Trigger Trigger_Neffe
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 4
+ObjectTemplate.radius 40
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Mont]
+ObjectTemplate.create Trigger Trigger_Mont
+ObjectTemplate.activeSafe Trigger Trigger_Mont
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 2
+ObjectTemplate.radius 25
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Mont_Farm]
+ObjectTemplate.create Trigger Trigger_Mont_Farm
+ObjectTemplate.activeSafe Trigger Trigger_Mont_Farm
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 5
+ObjectTemplate.radius 50
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+rem [TriggerTemplate: Trigger_North_Field]
+ObjectTemplate.create Trigger Trigger_North_Field
+ObjectTemplate.activeSafe Trigger Trigger_North_Field
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 6
+ObjectTemplate.radius 50
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.75
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+rem [TriggerTemplate: Trigger_Plantation]
+ObjectTemplate.create Trigger Trigger_Plantation
+ObjectTemplate.activeSafe Trigger Trigger_Plantation
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.radius 75
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.75
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+rem [TriggerTemplate: Trigger_Wardin_Road]
+ObjectTemplate.create Trigger Trigger_Wardin_Road
+ObjectTemplate.activeSafe Trigger Trigger_Wardin_Road
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 8
+ObjectTemplate.radius 10
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Wardin_Field]
+ObjectTemplate.create Trigger Trigger_Wardin_Field
+ObjectTemplate.activeSafe Trigger Trigger_Wardin_Field
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 9
+ObjectTemplate.radius 75
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 30
+
+rem [TriggerTemplate: Trigger_Wardin]
+ObjectTemplate.create Trigger Trigger_Wardin
+ObjectTemplate.activeSafe Trigger Trigger_Wardin
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 10
+ObjectTemplate.radius 50
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Mageret_Road]
+ObjectTemplate.create Trigger Trigger_Mageret_Road
+ObjectTemplate.activeSafe Trigger Trigger_Mageret_Road
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 11
+ObjectTemplate.radius 10
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Mageret_Forest]
+ObjectTemplate.create Trigger Trigger_Mageret_Forest
+ObjectTemplate.activeSafe Trigger Trigger_Mageret_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 12
+ObjectTemplate.radius 25
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Bastogne]
+ObjectTemplate.create Trigger Trigger_Bastogne
+ObjectTemplate.activeSafe Trigger Trigger_Bastogne
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 13
+ObjectTemplate.radius 75
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Bastogne_Farm]
+ObjectTemplate.create Trigger Trigger_Bastogne_Farm
+ObjectTemplate.activeSafe Trigger Trigger_Bastogne_Farm
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 14
+ObjectTemplate.radius 100
+ObjectTemplate.events 1
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Marvie]
+ObjectTemplate.create Trigger Trigger_Marvie
+ObjectTemplate.activeSafe Trigger Trigger_Marvie
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.radius 100
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Quarry]
+ObjectTemplate.create Trigger Trigger_Quarry
+ObjectTemplate.activeSafe Trigger Trigger_Quarry
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 16
+ObjectTemplate.radius 75
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Mageret]
+ObjectTemplate.create Trigger Trigger_Mageret
+ObjectTemplate.activeSafe Trigger Trigger_Mageret
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.radius 75
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Bizory]
+ObjectTemplate.create Trigger Trigger_Bizory
+ObjectTemplate.activeSafe Trigger Trigger_Bizory
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.radius 75
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+rem [TriggerTemplate: Trigger_Bizory_Road]
+ObjectTemplate.create Trigger Trigger_Bizory_Road
+ObjectTemplate.activeSafe Trigger Trigger_Bizory_Road
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 19
+ObjectTemplate.radius 75
+ObjectTemplate.events 14
+ObjectTemplate.averageTimeBetweenTests 30
+ObjectTemplate.chance 0.5
+ObjectTemplate.minimumTimeBetweenTriggering 60
+
+   rem [Trigger: Trigger_Churchbells]
+   Object.create Trigger_Churchbells
+   Object.absolutePosition -572.832/143.025/131.071
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Neffe_Tunnel]
+   Object.create Trigger_Neffe_Tunnel
+   Object.absolutePosition 38.375/115.521/55.174
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Neffe]
+   Object.create Trigger_Neffe
+   Object.absolutePosition 31.092/116.122/-11.477
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Mont]
+   Object.create Trigger_Mont
+   Object.absolutePosition -132.916/137.933/-18.898
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Mont_Farm]
+   Object.create Trigger_Mont_Farm
+   Object.absolutePosition -209.167/130.563/9.246
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_North_Field]
+   Object.create Trigger_North_Field
+   Object.absolutePosition -215.010/141.072/155.063
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Plantation]
+   Object.create Trigger_Plantation
+   Object.absolutePosition 37.589/113.845/-277.172
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Wardin_Road]
+   Object.create Trigger_Wardin_Road
+   Object.absolutePosition 302.968/136.929/-388.046
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Wardin_Field]
+   Object.create Trigger_Wardin_Field
+   Object.absolutePosition 373.497/125.471/-231.354
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Wardin]
+   Object.create Trigger_Wardin
+   Object.absolutePosition 379.017/149.769/-334.333
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Mageret_Road]
+   Object.create Trigger_Mageret_Road
+   Object.absolutePosition 327.651/137.982/265.232
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Mageret_Forest]
+   Object.create Trigger_Mageret_Forest
+   Object.absolutePosition 269.984/142.719/356.296
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Bastogne]
+   Object.create Trigger_Bastogne
+   Object.absolutePosition -620.479/138.265/4.223
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Bastogne_Farm]
+   Object.create Trigger_Bastogne_Farm
+   Object.absolutePosition -462.686/152.720/-209.808
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Marvie]
+   Object.create Trigger_Marvie
+   Object.absolutePosition -213.205/159.658/-389.870
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Quarry]
+   Object.create Trigger_Quarry
+   Object.absolutePosition -356.011/129.220/26.707
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Mageret]
+   Object.create Trigger_Mageret
+   Object.absolutePosition 379.465/141.713/228.363
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Bizory]
+   Object.create Trigger_Bizory
+   Object.absolutePosition 75.322/140.538/401.591
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [Trigger: Trigger_Bizory_Road]
+   Object.create Trigger_Bizory_Road
+   Object.absolutePosition -135.844/136.356/298.321
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
 rem ********** AmbientEffectArea **********
+
+rem [AmbientEffectAreaTemplate: Trigger_Churchbells_AmbientEffect_1]
+ObjectTemplate.create AmbientEffectArea Trigger_Churchbells_AmbientEffect_1
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Churchbells_AmbientEffect_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.radius 100
+ObjectTemplate.triggerId 1
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_ChurchBell
+
+rem [AmbientEffectAreaTemplate: Trigger_Neffe_Tunnel_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_Neffe_Tunnel_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Neffe_Tunnel_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 3
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Neffe_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_Neffe_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Neffe_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 4
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Neffe_AmbientEffect_Snow_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Neffe_AmbientEffect_Snow_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Neffe_AmbientEffect_Snow_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 4
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mont_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_Mont_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mont_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 2
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mont_AmbientEffect_Snow_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Mont_AmbientEffect_Snow_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mont_AmbientEffect_Snow_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 2
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mont_Farm_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_Mont_Farm_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mont_Farm_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 5
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Mont_Farm_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Mont_Farm_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mont_Farm_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 5
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_North_Field_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_North_Field_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_North_Field_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 6
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Plantation_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Plantation_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Plantation_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Plantation_AmbientEffect_Trail_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Plantation_AmbientEffect_Trail_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Plantation_AmbientEffect_Trail_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 7
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_Road_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_Road_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_Road_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 8
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_Field_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_Field_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_Field_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 9
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_Field_AmbientEffect_Trail_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_Field_AmbientEffect_Trail_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_Field_AmbientEffect_Trail_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 9
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 10
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_AmbientEffect_Snow]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_AmbientEffect_Snow
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_AmbientEffect_Snow
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 10
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Wardin_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Wardin_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Wardin_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 10
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_Road_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_Road_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_Road_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 11
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_Forest_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_Forest_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_Forest_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 12
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_Forest_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_Forest_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_Forest_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 12
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bastogne_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Bastogne_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bastogne_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 13
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bastogne_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Bastogne_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bastogne_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 13
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bastogne_Farm_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Bastogne_Farm_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bastogne_Farm_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 14
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Bastogne_Farm_AmbientEffect_Trail_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Bastogne_Farm_AmbientEffect_Trail_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bastogne_Farm_AmbientEffect_Trail_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 14
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Marvie_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Marvie_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Marvie_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Marvie_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Marvie_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Marvie_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Marvie_AmbientEffect_Trail_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Marvie_AmbientEffect_Trail_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Marvie_AmbientEffect_Trail_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Marvie_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Marvie_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Marvie_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 15
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Quarry_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Quarry_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Quarry_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 16
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Quarry_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Quarry_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Quarry_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 16
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Quarry_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Quarry_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Quarry_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 16
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Mageret_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Mageret_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Mageret_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 17
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_AmbientEffect_Trail_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_AmbientEffect_Trail_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_AmbientEffect_Trail_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 18
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_Road_AmbientEffect_Shards]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Shards
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Shards
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 19
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_Road_AmbientEffect_Trail]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Trail
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Trail
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 19
+ObjectTemplate.linkedEffectContainer e_dAmb_snowtrail
+
+rem [AmbientEffectAreaTemplate: Trigger_Bizory_Road_AmbientEffect_Shards_0]
+ObjectTemplate.create AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Shards_0
+ObjectTemplate.activeSafe AmbientEffectArea Trigger_Bizory_Road_AmbientEffect_Shards_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.hasMobilePhysics 0
+ObjectTemplate.triggerId 19
+ObjectTemplate.projectOnHeightmap 0
+ObjectTemplate.linkedEffectContainer e_dAmb_snowshards_1
+
+   rem [AmbientEffectArea: Trigger_Churchbells_AmbientEffect_1]
+   Object.create Trigger_Churchbells_AmbientEffect_1
+   Object.absolutePosition -578.829/164.134/133.799
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Neffe_Tunnel_AmbientEffect_Snow]
+   Object.create Trigger_Neffe_Tunnel_AmbientEffect_Snow
+   Object.absolutePosition 37.992/118.211/52.021
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Neffe_AmbientEffect_Snow]
+   Object.create Trigger_Neffe_AmbientEffect_Snow
+   Object.absolutePosition 26.619/122.242/-21.588
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Neffe_AmbientEffect_Snow_0]
+   Object.create Trigger_Neffe_AmbientEffect_Snow_0
+   Object.absolutePosition 6.738/120.437/-3.185
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mont_AmbientEffect_Snow]
+   Object.create Trigger_Mont_AmbientEffect_Snow
+   Object.absolutePosition -113.930/143.805/-23.259
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mont_AmbientEffect_Snow_0]
+   Object.create Trigger_Mont_AmbientEffect_Snow_0
+   Object.absolutePosition -126.850/143.805/-2.070
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mont_Farm_AmbientEffect_Snow]
+   Object.create Trigger_Mont_Farm_AmbientEffect_Snow
+   Object.absolutePosition -178.836/132.511/-17.823
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mont_Farm_AmbientEffect_Shards]
+   Object.create Trigger_Mont_Farm_AmbientEffect_Shards
+   Object.absolutePosition -244.467/140.333/12.442
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_North_Field_AmbientEffect_Snow]
+   Object.create Trigger_North_Field_AmbientEffect_Snow
+   Object.absolutePosition -213.608/140.803/147.912
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Plantation_AmbientEffect_Trail]
+   Object.create Trigger_Plantation_AmbientEffect_Trail
+   Object.absolutePosition -5.506/126.352/-323.793
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Plantation_AmbientEffect_Trail_0]
+   Object.create Trigger_Plantation_AmbientEffect_Trail_0
+   Object.absolutePosition 18.188/124.416/-245.176
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_Road_AmbientEffect_Shards]
+   Object.create Trigger_Wardin_Road_AmbientEffect_Shards
+   Object.absolutePosition 295.677/148.252/-386.692
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_Field_AmbientEffect_Trail]
+   Object.create Trigger_Wardin_Field_AmbientEffect_Trail
+   Object.absolutePosition 385.529/127.404/-236.745
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_Field_AmbientEffect_Trail_0]
+   Object.create Trigger_Wardin_Field_AmbientEffect_Trail_0
+   Object.absolutePosition 316.724/126.395/-247.194
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_AmbientEffect_Shards]
+   Object.create Trigger_Wardin_AmbientEffect_Shards
+   Object.absolutePosition 409.590/155.116/-311.944
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_AmbientEffect_Snow]
+   Object.create Trigger_Wardin_AmbientEffect_Snow
+   Object.absolutePosition 379.150/148.092/-362.829
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Wardin_AmbientEffect_Shards_0]
+   Object.create Trigger_Wardin_AmbientEffect_Shards_0
+   Object.absolutePosition 350.066/150.063/-326.694
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_Road_AmbientEffect_Shards]
+   Object.create Trigger_Mageret_Road_AmbientEffect_Shards
+   Object.absolutePosition 330.005/150.132/268.242
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_Forest_AmbientEffect_Shards]
+   Object.create Trigger_Mageret_Forest_AmbientEffect_Shards
+   Object.absolutePosition 250.605/155.835/379.067
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_Forest_AmbientEffect_Shards_0]
+   Object.create Trigger_Mageret_Forest_AmbientEffect_Shards_0
+   Object.absolutePosition 273.949/160.068/334.651
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bastogne_AmbientEffect_Shards]
+   Object.create Trigger_Bastogne_AmbientEffect_Shards
+   Object.absolutePosition -632.557/147.848/-24.001
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bastogne_AmbientEffect_Shards_0]
+   Object.create Trigger_Bastogne_AmbientEffect_Shards_0
+   Object.absolutePosition -566.256/144.871/44.485
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bastogne_Farm_AmbientEffect_Trail]
+   Object.create Trigger_Bastogne_Farm_AmbientEffect_Trail
+   Object.absolutePosition -485.755/151.963/-253.563
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bastogne_Farm_AmbientEffect_Trail_0]
+   Object.create Trigger_Bastogne_Farm_AmbientEffect_Trail_0
+   Object.absolutePosition -462.483/151.279/-167.477
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Marvie_AmbientEffect_Trail]
+   Object.create Trigger_Marvie_AmbientEffect_Trail
+   Object.absolutePosition -157.227/148.661/-361.312
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Marvie_AmbientEffect_Shards]
+   Object.create Trigger_Marvie_AmbientEffect_Shards
+   Object.absolutePosition -229.974/168.398/-383.935
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Marvie_AmbientEffect_Trail_0]
+   Object.create Trigger_Marvie_AmbientEffect_Trail_0
+   Object.absolutePosition -249.477/163.769/-442.328
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Marvie_AmbientEffect_Shards_0]
+   Object.create Trigger_Marvie_AmbientEffect_Shards_0
+   Object.absolutePosition -222.894/166.036/-439.915
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Quarry_AmbientEffect_Trail]
+   Object.create Trigger_Quarry_AmbientEffect_Trail
+   Object.absolutePosition -357.472/138.132/-41.168
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Quarry_AmbientEffect_Shards]
+   Object.create Trigger_Quarry_AmbientEffect_Shards
+   Object.absolutePosition -323.045/136.153/53.034
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Quarry_AmbientEffect_Shards_0]
+   Object.create Trigger_Quarry_AmbientEffect_Shards_0
+   Object.absolutePosition -386.088/141.621/64.843
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_AmbientEffect_Shards]
+   Object.create Trigger_Mageret_AmbientEffect_Shards
+   Object.absolutePosition 383.712/146.628/269.951
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_AmbientEffect_Trail]
+   Object.create Trigger_Mageret_AmbientEffect_Trail
+   Object.absolutePosition 360.713/149.419/156.242
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Mageret_AmbientEffect_Shards_0]
+   Object.create Trigger_Mageret_AmbientEffect_Shards_0
+   Object.absolutePosition 370.148/145.883/224.115
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_AmbientEffect_Shards]
+   Object.create Trigger_Bizory_AmbientEffect_Shards
+   Object.absolutePosition 90.503/147.821/406.254
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_AmbientEffect_Trail]
+   Object.create Trigger_Bizory_AmbientEffect_Trail
+   Object.absolutePosition -16.830/153.493/399.943
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_AmbientEffect_Shards_0]
+   Object.create Trigger_Bizory_AmbientEffect_Shards_0
+   Object.absolutePosition 33.302/163.711/462.114
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_AmbientEffect_Trail_0]
+   Object.create Trigger_Bizory_AmbientEffect_Trail_0
+   Object.absolutePosition 115.914/151.371/445.381
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_Road_AmbientEffect_Shards]
+   Object.create Trigger_Bizory_Road_AmbientEffect_Shards
+   Object.absolutePosition -104.767/154.619/330.359
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_Road_AmbientEffect_Trail]
+   Object.create Trigger_Bizory_Road_AmbientEffect_Trail
+   Object.absolutePosition -183.633/130.785/278.692
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
+
+   rem [AmbientEffectArea: Trigger_Bizory_Road_AmbientEffect_Shards_0]
+   Object.create Trigger_Bizory_Road_AmbientEffect_Shards_0
+   Object.absolutePosition -166.966/146.618/231.944
+   Object.rotation 0.000/0.000/0.000
+   Object.layer 1
 
 rem ************ AmbientSounds ************
 
+rem [SoundObjectTemplate: S_AmbientDefault]
+ObjectTemplate.create Sound S_AmbientDefault
+ObjectTemplate.activeSafe Sound S_AmbientDefault
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/wind_breeze-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.35
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 45.558/119.199/77.17
+ObjectTemplate.minDistance 2048
+
+Sound.addTrigger S_AmbientDefault
+
+rem [SoundObjectTemplate: S_AmbientDefault_Mont_Static]
+ObjectTemplate.create Sound S_AmbientDefault_Mont_Static
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Mont_Static
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/static_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -126.83/140.062/-7.284
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Mont_Static
+
+rem [SoundObjectTemplate: S_AmbientDefault_Mont_Floor]
+ObjectTemplate.create Sound S_AmbientDefault_Mont_Floor
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Mont_Floor
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.8
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -118.667/142.57/-14.044
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Mont_Floor
+
+rem [SoundObjectTemplate: S_AmbientDefault_Static]
+ObjectTemplate.create Sound S_AmbientDefault_Static
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Static
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/static_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -479.888/152.799/-197.04
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Static
+
+rem [SoundObjectTemplate: S_AmbientDefault_Static_0]
+ObjectTemplate.create Sound S_AmbientDefault_Static_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Static_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/static_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -243.201/162.232/-407.628
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Static_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Static_1]
+ObjectTemplate.create Sound S_AmbientDefault_Static_1
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Static_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/static_1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.6
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -217.735/132.226/8.283
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Static_1
+
+rem [SoundObjectTemplate: S_AmbientDefault_Mageret_Door]
+ObjectTemplate.create Sound S_AmbientDefault_Mageret_Door
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Mageret_Door
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/door_squeak-2.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 346.096/146.103/231.905
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Mageret_Door
+
+rem [SoundObjectTemplate: S_AmbientDefault_Door_Bizory]
+ObjectTemplate.create Sound S_AmbientDefault_Door_Bizory
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Door_Bizory
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/door_squeak-2.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 1
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 30.85/155.655/439.352
+ObjectTemplate.minDistance 2
+
+Sound.addTrigger S_AmbientDefault_Door_Bizory
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Ruin_Bastogne]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Ruin_Bastogne
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Ruin_Bastogne
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor_squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -572.715/143.93/-3.831
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Ruin_Bastogne
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Ruin_Bastogne_0]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Ruin_Bastogne_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Ruin_Bastogne_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor_squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.8
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -689.169/142.439/-72.392
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Ruin_Bastogne_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Ruin_Mageret]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Ruin_Mageret
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Ruin_Mageret
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor_squeak-2.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 360.201/147.55/221.972
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Ruin_Mageret
+
+rem [SoundObjectTemplate: S_AmbientDefault_Marvie_Floor]
+ObjectTemplate.create Sound S_AmbientDefault_Marvie_Floor
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Marvie_Floor
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.8
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -241.406/166.209/-396.13
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Marvie_Floor
+
+rem [SoundObjectTemplate: S_AmbientDefault_Wardin_Floor]
+ObjectTemplate.create Sound S_AmbientDefault_Wardin_Floor
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Wardin_Floor
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 409.563/154.928/-321.516
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Wardin_Floor
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Bizory]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Bizory
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Bizory
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 32.488/155.213/430.83
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Bizory
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Ruin_Wardin]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Ruin_Wardin
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Ruin_Wardin
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 342.591/153.46/-340.554
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Ruin_Wardin
+
+rem [SoundObjectTemplate: S_AmbientDefault_Floor_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Floor_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Floor_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/floor-squeak.ogg"
+ObjectTemplate.loopCount 1
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 1
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 152.155/112.718/-278.951
+ObjectTemplate.minDistance 4
+
+Sound.addTrigger S_AmbientDefault_Floor_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Marvie_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Marvie_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Marvie_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -277.911/154.176/-331.17
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Marvie_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Marvie_Forest_0]
+ObjectTemplate.create Sound S_AmbientDefault_Marvie_Forest_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Marvie_Forest_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -13.261/124.842/-407.127
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Marvie_Forest_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Forest_Neffe]
+ObjectTemplate.create Sound S_AmbientDefault_Forest_Neffe
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Forest_Neffe
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -71.182/148.555/-165.679
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Forest_Neffe
+
+rem [SoundObjectTemplate: S_AmbientDefault_Forest_Lake]
+ObjectTemplate.create Sound S_AmbientDefault_Forest_Lake
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Forest_Lake
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 197.973/105.14/-180.724
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Forest_Lake
+
+rem [SoundObjectTemplate: S_AmbientDefault_Mont_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Mont_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Mont_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -239.474/170.822/-140.798
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Mont_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Bastogne_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Bastogne_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Bastogne_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -385.443/128.205/84.332
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Bastogne_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Bastogne_Forest_0]
+ObjectTemplate.create Sound S_AmbientDefault_Bastogne_Forest_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Bastogne_Forest_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -677.92/149.061/188.514
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Bastogne_Forest_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Bizory_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Bizory_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Bizory_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 66.819/135.663/284.204
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Bizory_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Bizory_Forest_0]
+ObjectTemplate.create Sound S_AmbientDefault_Bizory_Forest_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Bizory_Forest_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 283.331/144.886/356.554
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Bizory_Forest_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Bizory_Forest_1]
+ObjectTemplate.create Sound S_AmbientDefault_Bizory_Forest_1
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Bizory_Forest_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -26.539/157.772/500.533
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Bizory_Forest_1
+
+rem [SoundObjectTemplate: S_AmbientDefault_Lehr_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Lehr_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Lehr_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 271.255/123.883/22.171
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Lehr_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Lehr_Forest_0]
+ObjectTemplate.create Sound S_AmbientDefault_Lehr_Forest_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Lehr_Forest_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 435.088/147.472/37.513
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Lehr_Forest_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Lehr_Forest_1]
+ObjectTemplate.create Sound S_AmbientDefault_Lehr_Forest_1
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Lehr_Forest_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 599.909/148.538/461.763
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Lehr_Forest_1
+
+rem [SoundObjectTemplate: S_AmbientDefault_Wardin_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Wardin_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Wardin_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 298.127/137.536/-410.767
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Wardin_Forest
+
+rem [SoundObjectTemplate: S_AmbientDefault_Wardin_Forest_0]
+ObjectTemplate.create Sound S_AmbientDefault_Wardin_Forest_0
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Wardin_Forest_0
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 126.067/119.94/-390.888
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Wardin_Forest_0
+
+rem [SoundObjectTemplate: S_AmbientDefault_Marvie_Forest_1]
+ObjectTemplate.create Sound S_AmbientDefault_Marvie_Forest_1
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Marvie_Forest_1
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position -30.059/123.441/-402.709
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Marvie_Forest_1
+
+rem [SoundObjectTemplate: S_AmbientDefault_Mageret_Forest]
+ObjectTemplate.create Sound S_AmbientDefault_Mageret_Forest
+ObjectTemplate.activeSafe Sound S_AmbientDefault_Mageret_Forest
+ObjectTemplate.modifiedByUser "alex"
+ObjectTemplate.isNotSaveable 1
+ObjectTemplate.lowSamples 2147483647
+ObjectTemplate.mediumSamples 2147483647
+ObjectTemplate.soundFilename "common/sound/levelambients/bastogne/windy-forest-1.ogg"
+ObjectTemplate.loopCount 0
+ObjectTemplate.is3dSound 0
+ObjectTemplate.stopType 0
+ObjectTemplate.volume 0.3
+ObjectTemplate.pitch 1
+ObjectTemplate.pan 0.5
+ObjectTemplate.reverbLevel 0
+ObjectTemplate.position 509.29/126.508/248.676
+ObjectTemplate.minDistance 40
+
+Sound.addTrigger S_AmbientDefault_Mageret_Forest
+
 if v_arg1 == BF2Editor
+
+Object.create S_AmbientDefault
+Object.absolutePosition 45.558/119.199/77.170
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Mont_Static
+Object.absolutePosition -126.830/140.062/-7.284
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Mont_Floor
+Object.absolutePosition -118.667/142.570/-14.044
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Static
+Object.absolutePosition -479.888/152.799/-197.040
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Static_0
+Object.absolutePosition -243.201/162.232/-407.628
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Static_1
+Object.absolutePosition -217.735/132.226/8.283
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Mageret_Door
+Object.absolutePosition 346.096/146.103/231.905
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Door_Bizory
+Object.absolutePosition 30.850/155.655/439.352
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Ruin_Bastogne
+Object.absolutePosition -572.715/143.930/-3.831
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Ruin_Bastogne_0
+Object.absolutePosition -689.169/142.439/-72.392
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Ruin_Mageret
+Object.absolutePosition 360.201/147.550/221.972
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Marvie_Floor
+Object.absolutePosition -241.406/166.209/-396.130
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Wardin_Floor
+Object.absolutePosition 409.563/154.928/-321.516
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Bizory
+Object.absolutePosition 32.488/155.213/430.830
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Ruin_Wardin
+Object.absolutePosition 342.591/153.460/-340.554
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Floor_Forest
+Object.absolutePosition 152.155/112.718/-278.951
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Marvie_Forest
+Object.absolutePosition -277.911/154.176/-331.170
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Marvie_Forest_0
+Object.absolutePosition -13.261/124.842/-407.127
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Forest_Neffe
+Object.absolutePosition -71.182/148.555/-165.679
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Forest_Lake
+Object.absolutePosition 197.973/105.140/-180.724
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Mont_Forest
+Object.absolutePosition -239.474/170.822/-140.798
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Bastogne_Forest
+Object.absolutePosition -385.443/128.205/84.332
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Bastogne_Forest_0
+Object.absolutePosition -677.920/149.061/188.514
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Bizory_Forest
+Object.absolutePosition 66.819/135.663/284.204
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Bizory_Forest_0
+Object.absolutePosition 283.331/144.886/356.554
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Bizory_Forest_1
+Object.absolutePosition -26.539/157.772/500.533
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Lehr_Forest
+Object.absolutePosition 271.255/123.883/22.171
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Lehr_Forest_0
+Object.absolutePosition 435.088/147.472/37.513
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Lehr_Forest_1
+Object.absolutePosition 599.909/148.538/461.763
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Wardin_Forest
+Object.absolutePosition 298.127/137.536/-410.767
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Wardin_Forest_0
+Object.absolutePosition 126.067/119.940/-390.888
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Marvie_Forest_1
+Object.absolutePosition -30.059/123.441/-402.709
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
+
+Object.create S_AmbientDefault_Mageret_Forest
+Object.absolutePosition 509.290/126.508/248.676
+Object.rotation 0.000/0.000/0.000
+Object.layer 1
 
 endIf
