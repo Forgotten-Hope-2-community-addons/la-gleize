@@ -1,142 +1,63 @@
 if v_arg1 == BF2Editor
 console.allowMultipleFileLoad 0
-run /objects/staticobjects/bulge/houses/bulge_cityhall/bulge_cityhall.con
-run /objects/staticobjects/bulge/houses/bulge_cityhall/bulge_cityhall_glass/bulge_cityhall_glass.con
-run /objects/staticobjects/bulge/houses/bulge_house_13/bulge_house_13.con
-run /objects/staticobjects/bulge/houses/bulge_house_13/bulge_house_13_glass/bulge_house_13_glass.con
-run /objects/staticobjects/france/village/village_house_001/village_house_001.con
-run /objects/staticobjects/france/village/village_house_001/village_house_001_glass/village_house_001_glass.con
-run /objects/staticobjects/france/village/village_house_003/village_house_003.con
-run /objects/staticobjects/france/village/village_house_003/village_house_003_glass/village_house_003_glass.con
-run /objects/staticobjects/france/village/village_house_002/village_house_002.con
-run /objects/staticobjects/france/village/village_house_002/village_house_002_glass/village_house_002_glass.con
-run /objects/staticobjects/france/village/village_house_007/village_house_007.con
-run /objects/staticobjects/france/village/village_house_007/village_house_007_glass/village_house_007_glass.con
-run /objects/staticobjects/france/village/village_house_015/village_house_015.con
-run /objects/staticobjects/france/village/village_house_015/village_house_015_glass/village_house_015_glass.con
-run /objects/staticobjects/france/railroad/cagny_trainstation/cagny_trainstation.con
-run /objects/staticobjects/france/railroad/cagny_trainstation/cagny_trainstation_windows/cagny_trainstation_windows.con
-run /objects/staticobjects/france/railroad/trainshed_open/trainshed_open.con
-run /objects/staticobjects/france/railroad/trainshed_open/trainshed_open_window/trainshed_open_window.con
-run /objects/staticobjects/bulge/houses/bulge_house_05/bulge_house_05.con
-run /objects/staticobjects/bulge/houses/bulge_house_05/bulge_house_05_windows/bulge_house_05_windows.con
 run /objects/staticobjects/ambienteffects/static/ambstat_oiltower_fire.con
 run /objects/effects/ambient/staticfx/e_samb_oiltower_fire.con
 run /objects/weapons/common/targetobjects/heatobject.con
 run /objects/staticobjects/ambienteffects/static/ambstat_oiltower_fire.tweak
 run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_5m_straight/cover_drystonewall_5m_straight_x3.con
 run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_5m_straight/cover_drystonewall_5m_straight.con
-run /objects/staticobjects/france/bridges/stonebridge_35m_destroyable/stonebridge_35m_destroyable.con
+run /objects/staticobjects/france/village/village_house_003/village_house_003.con
+run /objects/staticobjects/france/village/village_house_003/village_house_003_glass/village_house_003_glass.con
 run /objects/staticobjects/france/chateaux/chateaux_cls/chateaux_cls.con
 run /objects/staticobjects/france/port-en-bessin/port_bessin_harbourchurch/port_bessin_harbourchurch.con
 run /objects/staticobjects/bulge/foychurch/foychurch.con
 run /objects/staticobjects/bulge/houses/bulge_farm_01/bulge_farm_01.con
-run /objects/staticobjects/bulge/houses/bulge_barn/bulge_barn.con
-run /objects/staticobjects/bulge/houses/bulge_house_01_cls/bulge_house_01_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_02_cls/bulge_house_02_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_03_cls/bulge_house_03_cls.con
 run /objects/staticobjects/bulge/houses/bulge_house_04_cls/bulge_house_04_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_06/bulge_house_06.con
-run /objects/staticobjects/bulge/houses/bulge_house_07/bulge_house_07.con
-run /objects/staticobjects/bulge/houses/bulge_house_08_cls/bulge_house_08_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_09/bulge_house_09.con
-run /objects/staticobjects/bulge/houses/bulge_house_09_cls/bulge_house_09_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_10_cls/bulge_house_10_cls.con
-run /objects/staticobjects/bulge/houses/bulge_house_12_cls/bulge_house_12_cls.con
 run /objects/staticobjects/france/woodenshed/woodenshed.con
-run /objects/staticobjects/france/village/village_house_004/village_house_004.con
-run /objects/staticobjects/france/village/village_house_005/village_house_005.con
-run /objects/staticobjects/france/village/village_house_005_cls/village_house_005_cls.con
-run /objects/staticobjects/france/village/village_house_006/village_house_006.con
-run /objects/staticobjects/france/village/village_house_010/village_house_010.con
-run /objects/staticobjects/france/village/village_house_011/village_house_011.con
-run /objects/staticobjects/france/village/village_house_012_open/village_house_012_open.con
-run /objects/staticobjects/france/village/village_house_013_cls/village_house_013_cls.con
-run /objects/staticobjects/france/village/village_house_014_des/village_house_014_des.con
 run /objects/staticobjects/common/trainbridge/trainbridge.con
-run /objects/staticobjects/france/railroad/coalstorage/coalstorage.con
-run /objects/staticobjects/france/railroad/concretecrossing/concretecrossing.con
-run /objects/staticobjects/france/railroad/france_trainbridge/france_trainbridge.con
-run /objects/staticobjects/france/railroad/france_trainbridge_wide/france_trainbridge_wide.con
-run /objects/staticobjects/france/railroad/railroadhouse/railroadhouse.con
-run /objects/staticobjects/france/railroad/woodencrossing/woodencrossing.con
-run /objects/staticobjects/france/railroad/trainplatform_r/trainplatform_r.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_concrete1b/railroad_bridgecolumn_concrete1b.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone01a/railroad_bridgecolumn_stone01a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone01b/railroad_bridgecolumn_stone01b.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone12b/railroad_bridgecolumn_stone12b.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone21a/railroad_bridgecolumn_stone21a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone21b/railroad_bridgecolumn_stone21b.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone22a/railroad_bridgecolumn_stone22a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone22b/railroad_bridgecolumn_stone22b.con
-run /objects/staticobjects/railroad/bridges/bridgesheads/railroad_bridgehead_stone22/railroad_bridgehead_stone22.con
-run /objects/staticobjects/railroad/bridges/bridgesheads/railroad_bridgehead_concrete1/railroad_bridgehead_concrete1.con
-run /objects/staticobjects/railroad/bridges/bridgessegments/railroad_bridgeseg_frameworka1/railroad_bridgeseg_frameworka1.con
-run /objects/staticobjects/railroad/bridges/bridgessegments/railroad_bridgeseg_frameworka2/railroad_bridgeseg_frameworka2.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone11a/railroad_bridgecolumn_stone11a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone11b/railroad_bridgecolumn_stone11b.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone02b/railroad_bridgecolumn_stone02b.con
-run /objects/staticobjects/railroad/railroadcarriage/de/drg_gw_o_halle1/drg_gw_o_halle1_static.con
-run /objects/staticobjects/railroad/trackcrossings/railroad_trackcrossing_concrete_1_normal/railroad_trackcrossing_concrete_1_normal.con
-run /objects/staticobjects/railroad/trackcrossings/railroad_trackcrossing_wood_2a_4m_fr/railroad_trackcrossing_wood_2a_4m_fr.con
-run /objects/staticobjects/railroad/train_signal/train_signal.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_concrete1a/railroad_bridgecolumn_concrete1a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone02a/railroad_bridgecolumn_stone02a.con
-run /objects/staticobjects/railroad/bridges/bridgescolumns/railroad_bridgecolumn_stone12a/railroad_bridgecolumn_stone12a.con
+run /objects/staticobjects/bulge/houses/bulge_house_03_cls/bulge_house_03_cls.con
 run /objects/staticobjects/railroad/tracks/railroad_track_straight_96m/railroad_track_straight_96m.con
-run /objects/staticobjects/railroad/tracks/railroad_track_straight_72m/railroad_track_straight_72m.con
-run /objects/staticobjects/railroad/tracks/railroad_track_straight_48m/railroad_track_straight_48m.con
-run /objects/staticobjects/railroad/tracks/railroad_switch_s20d_left2_r100/railroad_switch_s20d_left2_r100.con
-run /objects/staticobjects/railroad/tracks/railroad_trackstop_threshold_24m/railroad_trackstop_threshold_24m.con
-run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_020degree/railroad_track_elbow_r100m_020degree.con
-run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_010degree/railroad_track_elbow_r100m_010degree.con
 run /objects/staticobjects/bulge/houses/bulge_house_11_cls/bulge_house_11_cls.con
-run /objects/staticobjects/france/village/barn_01/barn_01.con
-run /objects/staticobjects/france/village/barn_02/barn_02.con
-run /objects/staticobjects/france/village/barn_02_cls/barn_02_cls.con
-run /objects/staticobjects/france/village/open_garage/open_garage.con
+run /objects/staticobjects/bulge/houses/bulge_house_02_cls/bulge_house_02_cls.con
+run /objects/staticobjects/bulge/houses/bulge_house_01_cls/bulge_house_01_cls.con
+run /objects/staticobjects/france/village/village_house_005_cls/village_house_005_cls.con
 run /objects/staticobjects/france/fences/stonewall_thick/stonewall_thick_rounded/stonewall_thick_rounded.con
+run /objects/staticobjects/france/village/village_house_004/village_house_004.con
+run /objects/staticobjects/france/village/village_house_010/village_house_010.con
 run /objects/staticobjects/france/concrete_drainagepipe_3x/concrete_drainagepipe_3x.con
-run /objects/staticobjects/france/copplestonebridge/copplestonebridge.con
 run /objects/staticobjects/france/stairs/stairs_straigt_2m_france/stairs_straigt_2m_france.con
 run /objects/staticobjects/france/fences/stonewall_thick/stonewall_thick_20m/stonewall_thick_20m.con
 run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_5m_arch/cover_drystonewall_5m_arch.con
-run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_4_5m_straight_nocurve/cover_drystonewall_4_5m_straight_nocurve.con
-run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_4_75m_straight_nocurve/cover_drystonewall_4_75m_straight_nocurve.con
-run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_5m_x_2m/cover_drystonewall_5m_x_2m.con
-run /objects/staticobjects/france/fences/eurowall3/eurowall3_high_24m/eurowall3_high_24m.con
-run /objects/staticobjects/france/fences/eurowall2/eurowall2_high_24m/eurowall2_high_24m.con
-run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_24m/eurowall1_high_24m.con
 run /objects/staticobjects/france/village/ruin_01/ruin_01.con
+run /objects/staticobjects/france/railroad/france_trainbridge_wide/france_trainbridge_wide.con
+run /objects/staticobjects/railroad/tracks/railroad_track_straight_48m/railroad_track_straight_48m.con
+run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_020degree/railroad_track_elbow_r100m_020degree.con
 run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_0225degree/railroad_track_elbow_r100m_0225degree.con
 run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_015degree/railroad_track_elbow_r100m_015degree.con
-run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_005degree/railroad_track_elbow_r100m_005degree.con
 run /objects/staticobjects/railroad/tracks/railroad_track_straight_24m/railroad_track_straight_24m.con
+run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_010degree/railroad_track_elbow_r100m_010degree.con
+run /objects/staticobjects/railroad/tracks/railroad_track_elbow_r100m_005degree/railroad_track_elbow_r100m_005degree.con
 run /objects/staticobjects/railroad/tracks/railroad_track_straight_12m/railroad_track_straight_12m.con
-run /objects/staticobjects/france/railroad/steel_trainbridge_diagonal/steel_trainbridge_diagonal.con
-run /objects/staticobjects/france/bridges/stonebridge_35m_des/stonebridge_35m_des.con
+run /objects/staticobjects/railroad/tracks/railroad_track_straight_72m/railroad_track_straight_72m.con
+run /objects/staticobjects/france/village/village_house_005/village_house_005.con
 run /objects/staticobjects/france/bridges/concretebricksbridge_canalbridge/concretebricksbridge_canalbridge.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_3m/farmwall_3m.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_pillar/farmwall_pillar.con
+run /objects/staticobjects/bulge/houses/bulge_house_05/bulge_house_05.con
+run /objects/staticobjects/bulge/houses/bulge_house_05/bulge_house_05_windows/bulge_house_05_windows.con
 run /objects/staticobjects/bulge/bulge_haystack_winter/bulge_haystack_winter.con
 run /objects/staticobjects/france/fences/woodenfence/woodenfence_corner4m/woodenfence_corner4m.con
 run /objects/staticobjects/france/fences/woodenfence/woodenfence_straight8m/woodenfence_straight8m.con
-run /objects/staticobjects/bulge/stavelot/stavelot_bridge_norail/stavelot_bridge_norail.con
-run /objects/staticobjects/bulge/stavelot/stavelot_fountain/stavelot_fountain.con
 run /objects/staticobjects/france/cobblestone_viaduct/cobblestone_viaduct.con
-run /objects/staticobjects/france/copplestonebridge_big/copplestonebridge_big.con
+run /objects/staticobjects/france/village/barn_01/barn_01.con
 run /objects/vegitation/west_europe/plane_32m/plane_32m.con
 run /objects/vegitation/west_europe/plane_32m/plane_32m_lod.con
 run /objects/staticobjects/france/fh_sawmill/fh_sawmill.con
+run /objects/staticobjects/france/copplestonebridge_big/copplestonebridge_big.con
 run /objects/staticobjects/france/bunker/mg_casemate2/mg_casemate2.con
 run /objects/staticobjects/france/village/farmhouse_01_cls/farmhouse_01_cls.con
 run /objects/staticobjects/france/village/barn_03_cls/barn_03_cls.con
-run /objects/staticobjects/france/town/townshed001/townshed001.con
-run /objects/staticobjects/france/town/townshed002/townshed002.con
 run /objects/staticobjects/france/town/townshed003/townshed003.con
-run /objects/staticobjects/france/town/townshed004/townshed004.con
-run /objects/staticobjects/france/town/townshed005/townshed005.con
-run /objects/staticobjects/france/town/townshed006/townshed006.con
 run /objects/staticobjects/france/shed_metalroof/shed_metalroof.con
 run /objects/vegitation/wip_stvith/wip_shrubrow3_10m/wip_shrubrow3_10m.con
 run /objects/vegitation/wip_stvith/wip_shrubrow3_10m/wip_shrubrow3_10m_lod.con
@@ -146,6 +67,7 @@ run /objects/staticobjects/france/fences/farmwall/farmwall_9m/farmwall_9m.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_with_pillars_36m/farmwall_with_pillars_36m.con
 run /objects/staticobjects/france/fences/gates/fieldgate/fieldgate.con
 run /objects/staticobjects/france/fountains/fh_france_fountain/fh_france_fountain.con
+run /objects/staticobjects/france/village/village_house_011/village_house_011.con
 run /objects/staticobjects/france/fences/stonewall_thick/stonewall_thick_5m/stonewall_thick_5m.con
 run /objects/staticobjects/france/fences/stonewall_thick/stonewall_thick_90deg/stonewall_thick_90deg.con
 run /objects/staticobjects/france/fences/stonewall_thick/stonewall_thick_15m_sharp_col/stonewall_thick_15m_sharp_col.con
@@ -168,39 +90,22 @@ run /objects/staticobjects/northafrica/drystonewall/drystonewall_5m_z_arch/dryst
 run /objects/vegitation/wip_stvith/wip_hedgerow_thin_15m_nocol/wip_hedgerow_thin_15m_nocol.con
 run /objects/vegitation/wip_stvith/wip_hedgerow_thin_15m_nocol/wip_hedgerow_thin_15m_nocol_lod.con
 run /objects/staticobjects/common/stack_of_logs_snow/stack_of_logs_snow.con
-run /objects/staticobjects/bulge/trench_10m/trench_10m.con
-run /objects/staticobjects/bulge/foxhole_big/foxhole_big.con
-run /objects/staticobjects/bulge/foxhole_big_cover/foxhole_big_cover.con
-run /objects/staticobjects/bulge/foxhole_bulge/foxhole_bulge.con
-run /objects/staticobjects/bulge/foxhole_small/foxhole_small.con
 run /objects/staticobjects/bulge/gravestones/gravestone1_snow/gravestone1_snow.con
 run /objects/staticobjects/bulge/gravestones/gravestone2_snow/gravestone2_snow.con
 run /objects/staticobjects/bulge/gravestones/gravestone4_snow/gravestone4_snow.con
 run /objects/staticobjects/bulge/gravestones/gravestone5_snow/gravestone5_snow.con
 run /objects/staticobjects/bulge/gravestones/gravestone6_snow/gravestone6_snow.con
-run /objects/staticobjects/russia/trenches/ru_trenchsmall/ru_trenchsmall.con
-run /objects/staticobjects/russia/trenches/ru_trenchsmall/ru_trenchsmall_dummy/ru_trenchsmall_dummy.con
-run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_30m/ru_dirttrench_30m.con
-run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_30m/ru_dirttrench_30m_dummy/ru_dirttrench_30m_dummy.con
 run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_8m/ru_dirttrench_8m.con
 run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_8m/ru_dirttrench_8m_dummy/ru_dirttrench_8m_dummy.con
-run /objects/staticobjects/common/com_objects/rock10m/rock10m.con
-run /objects/staticobjects/common/com_objects/rock20m/rock20m.con
-run /objects/staticobjects/common/com_objects/rock25m/rock25m.con
-run /objects/staticobjects/common/com_objects/rock2m/rock2m.con
-run /objects/staticobjects/common/com_objects/rock5m/rock5m.con
-run /objects/staticobjects/common/com_objects/rockpile_1/rockpile_1.con
-run /objects/staticobjects/common/com_objects/rockpile_large/rockpile_large.con
-run /objects/staticobjects/common/com_objects/rockpile_medium/rockpile_medium.con
 run /objects/staticobjects/common/com_objects/rockpile_medium_02/rockpile_medium_02.con
-run /objects/staticobjects/common/com_objects/rockpile_small/rockpile_small.con
-run /objects/staticobjects/russia/trenches/ru_dirthole/ru_dirthole_deep/ru_dirthole_deep.con
-run /objects/staticobjects/russia/trenches/ru_dirthole/ru_dirthole_deep/ru_dirthole_deep_dummy/ru_dirthole_deep_dummy.con
+run /objects/staticobjects/common/com_objects/rock10m/rock10m.con
 run /objects/staticobjects/russia/trenches/ru_pak_improvised_cover/ru_pak_improvised_cover.con
-run /objects/staticobjects/russia/trenches/ru_dirthole/ru_dirthole_big/ru_dirthole_big.con
-run /objects/staticobjects/russia/trenches/ru_dirthole/ru_dirthole_big/ru_dirthole_big_dummy/ru_dirthole_big_dummy.con
-run /objects/staticobjects/france/transmissionstation_france/transmissionstation_france.con
-run /objects/staticobjects/france/trainstation_waterfountain/trainstation_waterfountain.con
+run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_30m/ru_dirttrench_30m.con
+run /objects/staticobjects/russia/trenches/ru_dirttrench/ru_dirttrench_30m/ru_dirttrench_30m_dummy/ru_dirttrench_30m_dummy.con
+run /objects/staticobjects/common/com_objects/rock5m/rock5m.con
+run /objects/staticobjects/common/com_objects/rock2m/rock2m.con
+run /objects/staticobjects/france/village/village_house_013_cls/village_house_013_cls.con
+run /objects/staticobjects/france/village/village_house_014_des/village_house_014_des.con
 run /objects/staticobjects/france/stonne/stonne_townhall/stonne_townhall.con
 run /objects/staticobjects/france/stonne/stonne_townhall/stonne_townhall_glass/stonne_townhall_glass.con
 run /objects/staticobjects/common/firewood/firewood.con
@@ -223,64 +128,47 @@ run /objects/vegitation/wip_stvith/wip_pine_group_22m/wip_pine_group_22m.con
 run /objects/vegitation/wip_stvith/wip_pine_group_22m/wip_pine_group_22m_lod.con
 run /objects/vegitation/wip_stvith/wip_pine_19m/wip_pine_19m.con
 run /objects/vegitation/wip_stvith/wip_pine_19m/wip_pine_19m_lod.con
+run /objects/staticobjects/bulge/houses/bulge_barn/bulge_barn.con
 run /objects/staticobjects/common/fh_cablepole_1arm/fh_cablepole_1arm.con
+run /objects/staticobjects/bulge/houses/bulge_house_09_cls/bulge_house_09_cls.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_corner/farmwall_corner.con
 run /objects/staticobjects/wrecks/pzivh_wreck/pzivh_wreck.con
 run /objects/effects/ambient/staticfx/e_samb_wreckfire.con
 run /objects/staticobjects/wrecks/panther_g_wreck_ard/panther_g_wreck_ard.con
 run /objects/staticobjects/common/com_objects/cables/cable16m/cable16m.con
-run /objects/staticobjects/france/town/townhouse_ruine001/townhouse_ruine001.con
-run /objects/staticobjects/france/town/townhouse_ruine001/townhouse_ruine001_glass/townhouse_ruine001_glass.con
-run /objects/staticobjects/france/town/townhouse_ruine002/townhouse_ruine002.con
-run /objects/staticobjects/france/town/townhouse_ruine003/townhouse_ruine003.con
-run /objects/staticobjects/france/town/townhouse_ruine004/townhouse_ruine004.con
-run /objects/staticobjects/france/town/townhouse_ruine004/townhouse_ruine004_glass/townhouse_ruine004_glass.con
-run /objects/staticobjects/france/town/townhouse_ruine005/townhouse_ruine005.con
 run /objects/staticobjects/france/town/townhouse_ruine009/townhouse_ruine009.con
-run /objects/staticobjects/france/town/townhouse_ruine009/townhouse_ruine009_alt.con
-run /objects/staticobjects/france/town/townhouse_ruine010/townhouse_ruine010.con
-run /objects/staticobjects/france/town/townhouse_ruine011/townhouse_ruine011.con
-run /objects/staticobjects/france/town/townhouse_ruine012/townhouse_ruine012.con
-run /objects/staticobjects/france/town/townhouse_ruine013/townhouse_ruine013.con
-run /objects/staticobjects/france/town/townhouse_ruine014/townhouse_ruine014.con
 run /objects/staticobjects/france/ruins/ruinset1_part_a/ruinset1_part_a.con
-run /objects/staticobjects/france/ruins/ruinset1_part_b/ruinset1_part_b.con
-run /objects/staticobjects/france/ruins/ruinset1_part_c/ruinset1_part_c.con
-run /objects/staticobjects/france/ruins/ruinset1_part_d/ruinset1_part_d.con
-run /objects/staticobjects/france/ruins/ruinset1_part_e/ruinset1_part_e.con
-run /objects/staticobjects/france/ruins/ruinset1_part_f/ruinset1_part_f.con
-run /objects/staticobjects/france/ruins/ruinset2_part_a/ruinset2_part_a.con
-run /objects/staticobjects/france/ruins/ruinset2_part_b/ruinset2_part_b.con
-run /objects/staticobjects/france/ruins/ruinset2_part_c/ruinset2_part_c.con
 run /objects/staticobjects/france/ruins/ruinset2_part_d/ruinset2_part_d.con
-run /objects/staticobjects/france/ruins/ruinset2_part_e/ruinset2_part_e.con
 run /objects/staticobjects/france/ruins/ruinset2_part_f/ruinset2_part_f.con
+run /objects/staticobjects/france/town/townshed006/townshed006.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_3m_des1/farmwall_3m_des1.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_destroyed_piece_1/farmwall_destroyed_piece_1.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_destroyed_piece_b/farmwall_destroyed_piece_b.con
 run /objects/staticobjects/france/fences/farmwall/farmwall_9m_des3/farmwall_9m_des3.con
+run /objects/staticobjects/france/village/village_house_015/village_house_015.con
+run /objects/staticobjects/france/village/village_house_015/village_house_015_glass/village_house_015_glass.con
 run /objects/staticobjects/france/town/timberframehouse_001/timberframehouse_001.con
 run /objects/staticobjects/common_statics/ersatzfeldwagen_40/ersatzfeldwagen_40.con
-run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_segment4/eurowall1_high_segment4.con
-run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_segment3/eurowall1_high_segment3.con
-run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_pillar2/eurowall1_high_pillar2.con
-run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_pillar4/eurowall1_high_pillar4.con
 run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_pillar3/eurowall1_high_pillar3.con
 run /objects/staticobjects/france/fences/eurowall1/eurowall1_ironfence1_segment1/eurowall1_ironfence1_segment1.con
 run /objects/staticobjects/france/town/townhouse027/townhouse027.con
 run /objects/staticobjects/france/town/townhouse027/townhouse027_windows/townhouse027_windows.con
 run /objects/vegitation/west_europe/pine_des_sml/pine_des_sml.con
 run /objects/vegitation/west_europe/pine_des_sml/pine_des_sml_lod.con
-run /objects/vegitation/west_europe/plane_10m_destroyed/plane_10m_destroyed.con
-run /objects/vegitation/west_europe/plane_10m_destroyed/plane_10m_destroyed_lod.con
 run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_segment1/eurowall1_high_segment1.con
 run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_segment2/eurowall1_high_segment2.con
 run /objects/staticobjects/france/fences/eurowall1/eurowall1_gate2_church/eurowall1_gate2_church.con
 run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_5m_straight/cover_drystonewall_5m_straight_x6.con
+run /objects/staticobjects/france/ruins/ruinset1_part_e/ruinset1_part_e.con
 run /objects/staticobjects/common/com_objects/cables/cable40m/cable40m.con
+run /objects/staticobjects/bulge/houses/bulge_house_10_cls/bulge_house_10_cls.con
+run /objects/staticobjects/france/town/townhouse_ruine003/townhouse_ruine003.con
+run /objects/staticobjects/france/town/townhouse_ruine013/townhouse_ruine013.con
 run /objects/staticobjects/france/furniture/iron_stove/iron_stove.con
+run /objects/staticobjects/france/town/townhouse_ruine005/townhouse_ruine005.con
 run /objects/staticobjects/common/ladders/fh_ladder_5mtr/fh_ladder_5mtr.con
 run /objects/staticobjects/france/woodplanks/france_wood_plank_8m/france_wood_plank_8m.con
+run /objects/staticobjects/france/ruins/ruinset2_part_c/ruinset2_part_c.con
 run /objects/staticobjects/common/fh_house_cablepole_small/fh_house_cablepole_small.con
 run /objects/staticobjects/common/cableroll_wood_withoutcable/cableroll_wood_withoutcable.con
 run /objects/vegitation/wip_stvith/wip_deciduous_10m/wip_deciduous_10m.con
@@ -289,10 +177,14 @@ run /objects/vegitation/west_europe/fh_stump01/fh_stump01.con
 run /objects/vegitation/west_europe/fh_stump01/fh_stump01_lod.con
 run /objects/vegitation/west_europe/fh_stump04/fh_stump04.con
 run /objects/vegitation/west_europe/fh_stump04/fh_stump04_lod.con
+run /objects/staticobjects/france/fences/eurowall1/eurowall1_high_pillar2/eurowall1_high_pillar2.con
 run /objects/vegitation/west_europe/pollard_willow_2/pollard_willow_2.con
 run /objects/vegitation/west_europe/pollard_willow_2/pollard_willow_2_lod.con
 run /objects/vegitation/west_europe/pollard_willow_1/pollard_willow_1.con
 run /objects/vegitation/west_europe/pollard_willow_1/pollard_willow_1_lod.con
+run /objects/staticobjects/france/town/townshed004/townshed004.con
+run /objects/staticobjects/france/ruins/ruinset2_part_b/ruinset2_part_b.con
+run /objects/staticobjects/bulge/houses/bulge_house_08_cls/bulge_house_08_cls.con
 run /objects/staticobjects/wrecks/sdkfz251_d_ard_wreck/sdkfz251_d_ard_wreck.con
 run /objects/effects/ambient/staticfx/e_samb_bombcrater.con
 run /objects/staticobjects/france/signal_tower/signal_tower.con
@@ -302,33 +194,47 @@ run /objects/staticobjects/france/woodplanks/france_woodlog_250cm/france_woodlog
 run /objects/staticobjects/france/church/vierge_marie/vierge_marie.con
 run /objects/staticobjects/bulge/pineforest/pineforest_snow_1/pineforest_snow_1.con
 run /objects/staticobjects/bulge/pineforest/pineforest_snow_2/pineforest_snow_2.con
+run /objects/staticobjects/france/town/townhouse_ruine002/townhouse_ruine002.con
+run /objects/staticobjects/bulge/houses/bulge_house_13/bulge_house_13.con
+run /objects/staticobjects/bulge/houses/bulge_house_13/bulge_house_13_glass/bulge_house_13_glass.con
+run /objects/staticobjects/france/town/townshed002/townshed002.con
 run /objects/staticobjects/russia/rural/ru_milkhut/ru_milkhut.con
 run /objects/staticobjects/common/metalbucket/metalbucket.con
 run /objects/staticobjects/france/corrugated_metal_plate/corrugated_metal_plate.con
 run /objects/staticobjects/common/fh_cablepole_concrete/fh_cablepole_concrete.con
 run /objects/staticobjects/france/fences/concretewall_thick/concretewall_thick_5m/concretewall_thick_5m.con
+run /objects/vegitation/west_europe/plane_10m_destroyed/plane_10m_destroyed.con
+run /objects/vegitation/west_europe/plane_10m_destroyed/plane_10m_destroyed_lod.con
 run /objects/staticobjects/common/woodbarrel_new/woodbarrel_new.con
 run /objects/staticobjects/common/dunghill/dunghill.con
 run /objects/staticobjects/common_statics/animals/cow1/cow1_noflies.con
 run /objects/staticobjects/common/pitchfork/pitchfork.con
 run /objects/staticobjects/common/petrolpump/petrolpump.con
 run /objects/staticobjects/common/petrolpump/petrolpump_glass/petrolpump_glass.con
+run /objects/staticobjects/railroad/bridges/bridgesheads/railroad_bridgehead_stone22/railroad_bridgehead_stone22.con
 run /objects/staticobjects/france/fences/france_gardenfence/france_gardenfence_10m_br/france_gardenfence_10m_br.con
 run /objects/staticobjects/railroad/tracks/railroad_switch_s10d_right2_r100/railroad_switch_s10d_right2_r100.con
 run /objects/staticobjects/railroad/tracks/railroad_switch_s10d_left1_r100/railroad_switch_s10d_left1_r100.con
 run /objects/staticobjects/railroad/tracks/railroad_track_straight_3m/railroad_track_straight_3m.con
-run /objects/staticobjects/france/railroad/france_trainbridge_base_doublelane/france_trainbridge_base_doublelane.con
+run /objects/staticobjects/france/railroad/railroadhouse/railroadhouse.con
 run /objects/staticobjects/common/com_objects/cables/cable60m/cable60m.con
+run /objects/staticobjects/france/railroad/cagny_trainstation/cagny_trainstation.con
+run /objects/staticobjects/france/railroad/cagny_trainstation/cagny_trainstation_windows/cagny_trainstation_windows.con
 run /objects/staticobjects/common/street-light/street-light.con
 run /objects/staticobjects/common/street-light_lamp/street-light_lamp.con
+run /objects/staticobjects/france/railroad/trainplatform_r/trainplatform_r.con
 run /objects/staticobjects/northafrica/street_guard_rail/street_guard_rail_22m/street_guard_rail_22m.con
 run /objects/staticobjects/northafrica/street_guard_rail/street_guard_rail_log/street_guard_rail_log.con
 run /objects/staticobjects/france/railroad/eu_trainstation_closed/eu_trainstation_closed.con
+run /objects/staticobjects/railroad/railroadcarriage/de/drg_gw_o_halle1/drg_gw_o_halle1_static.con
 run /objects/staticobjects/railroad/railroadcarriage/de/drg_gw_x_erfurt1/drg_gw_x_erfurt1_static.con
 run /objects/staticobjects/france/mills/mill_stream_control/mill_stream_control.con
+run /objects/staticobjects/northafrica/drystonewall/cover_drystonewall_4_5m_straight_nocurve/cover_drystonewall_4_5m_straight_nocurve.con
 run /objects/staticobjects/france/littlebridge/littlebridge.con
+run /objects/staticobjects/france/village/open_garage/open_garage.con
 run /objects/vegitation/west_europe/appletreea/appletreea.con
 run /objects/vegitation/west_europe/appletreea/appletreea_lod.con
+run /objects/staticobjects/common/ladders/fh_ladder_4mtr/fh_ladder_4mtr.con
 run /objects/vehicles/land/de/kubelwagen_win/kubelwagen_win.con
 run /objects/vehicles/land/us/willysmb_us/willysmb_us_snow.con
 run /objects/vehicles/land/de/tiger_ii_prod/kingtiger_1944fall/kingtiger_1944fall.con
@@ -349,68 +255,12 @@ run /objects/vehicles/land/us/gmc/gmc_win_ammo.con
 run /objects/vehicles/land/de/opelblitz_ard/opelblitz_ard.con
 run /objects/vehicles/land/us/gmc/gmc_win.con
 run /objects/vehicles/air/de/autogyro/autogyro.con
-run /objects/staticobjects/common/ladders/fh_ladder_4mtr/fh_ladder_4mtr.con
 run /objects/vegitation/west_europe/pine_22m/pine_22m.con
 run /objects/vegitation/west_europe/pine_22m/pine_22m_lod.con
 run /objects/vegitation/wip_stvith/wip_bush_2/wip_bush_2.con
 run /objects/vegitation/wip_stvith/wip_bush_2/wip_bush_2_lod.con
 console.allowMultipleFileLoad 1
 endIf
-
-rem *** bulge_cityhall ***
-Object.create bulge_cityhall
-Object.absolutePosition -296.215/772.454/-878.045
-Object.layer 3
-
-rem *** bulge_house_13 ***
-Object.create bulge_house_13
-Object.absolutePosition -178.529/794.277/-763.028
-Object.layer 3
-
-rem *** village_house_001 ***
-Object.create village_house_001
-Object.absolutePosition -153.242/780.210/-915.115
-Object.layer 3
-
-rem *** village_house_003 ***
-Object.create village_house_003
-Object.absolutePosition -165.960/778.582/-869.932
-Object.layer 3
-
-rem *** village_house_002 ***
-Object.create village_house_002
-Object.absolutePosition -153.242/780.210/-890.017
-Object.layer 3
-
-rem *** village_house_007 ***
-Object.create village_house_007
-Object.absolutePosition -116.438/780.210/-865.886
-Object.layer 3
-
-rem *** village_house_015 ***
-Object.create village_house_015
-Object.absolutePosition -78.739/780.210/-915.115
-Object.layer 3
-
-rem *** cagny_trainstation ***
-Object.create cagny_trainstation
-Object.absolutePosition 48.521/805.920/-871.826
-Object.layer 3
-
-rem *** trainshed_open ***
-Object.create trainshed_open
-Object.absolutePosition 78.350/808.194/-903.175
-Object.layer 3
-
-rem *** bulge_house_05 ***
-Object.create bulge_house_05
-Object.absolutePosition -316.682/772.017/-901.050
-Object.layer 3
-
-rem *** village_house_007 ***
-Object.create village_house_007
-Object.absolutePosition 671.386/422.284/41.827
-Object.layer 3
 
 rem *** ambstat_oiltower_fire ***
 Object.create ambstat_oiltower_fire
@@ -441,12 +291,6 @@ Object.create village_house_003
 Object.absolutePosition 516.722/58.082/-596.430
 Object.layer 1
 
-rem *** stonebridge_35m_destroyable ***
-Object.create stonebridge_35m_destroyable
-Object.absolutePosition -48.760/785.647/-885.215
-Object.rotation 86.8/0.0/0.0
-Object.layer 3
-
 rem *** chateaux_cls ***
 Object.create chateaux_cls
 Object.absolutePosition -644.772/99.041/-201.796
@@ -471,72 +315,6 @@ Object.absolutePosition 299.939/41.964/-452.928
 Object.rotation -54.1/0.0/0.0
 Object.layer 1
 
-rem *** bulge_barn ***
-Object.create bulge_barn
-Object.absolutePosition -296.066/773.944/-901.154
-Object.layer 3
-
-rem *** bulge_farm_01 ***
-Object.create bulge_farm_01
-Object.absolutePosition -178.529/761.540/-784.283
-Object.layer 3
-
-rem *** bulge_house_01_cls ***
-Object.create bulge_house_01_cls
-Object.absolutePosition -178.529/744.803/-766.109
-Object.layer 3
-
-rem *** bulge_house_02_cls ***
-Object.create bulge_house_02_cls
-Object.absolutePosition -178.529/744.803/-750.821
-Object.layer 3
-
-rem *** bulge_house_03_cls ***
-Object.create bulge_house_03_cls
-Object.absolutePosition -178.529/745.268/-736.851
-Object.layer 3
-
-rem *** bulge_house_04_cls ***
-Object.create bulge_house_04_cls
-Object.absolutePosition -178.529/794.277/-786.928
-Object.layer 3
-
-rem *** bulge_house_06 ***
-Object.create bulge_house_06
-Object.absolutePosition -178.529/744.803/-784.283
-Object.layer 3
-
-rem *** bulge_house_07 ***
-Object.create bulge_house_07
-Object.absolutePosition -178.529/776.028/-784.283
-Object.layer 3
-
-rem *** bulge_house_08_cls ***
-Object.create bulge_house_08_cls
-Object.absolutePosition -178.529/794.277/-743.489
-Object.layer 3
-
-rem *** bulge_house_09 ***
-Object.create bulge_house_09
-Object.absolutePosition -320.510/773.099/-879.558
-Object.layer 3
-
-rem *** bulge_house_09_cls ***
-Object.create bulge_house_09_cls
-Object.absolutePosition -178.529/779.522/-763.359
-Object.rotation -180.0/0.0/0.0
-Object.layer 3
-
-rem *** bulge_house_10_cls ***
-Object.create bulge_house_10_cls
-Object.absolutePosition -178.442/761.068/-761.616
-Object.layer 3
-
-rem *** bulge_house_12_cls ***
-Object.create bulge_house_12_cls
-Object.absolutePosition -178.529/779.522/-743.489
-Object.layer 3
-
 rem *** bulge_house_04_cls ***
 Object.create bulge_house_04_cls
 Object.absolutePosition -366.221/57.621/-333.369
@@ -548,51 +326,6 @@ Object.create woodenshed
 Object.absolutePosition -406.031/65.494/-315.180
 Object.rotation -6.1/0.0/0.0
 Object.layer 1
-
-rem *** village_house_004 ***
-Object.create village_house_004
-Object.absolutePosition -149.992/776.737/-870.627
-Object.layer 3
-
-rem *** village_house_005 ***
-Object.create village_house_005
-Object.absolutePosition -153.995/778.704/-848.560
-Object.layer 3
-
-rem *** village_house_005_cls ***
-Object.create village_house_005_cls
-Object.absolutePosition -116.438/780.210/-915.115
-Object.layer 3
-
-rem *** village_house_006 ***
-Object.create village_house_006
-Object.absolutePosition -116.438/780.210/-890.017
-Object.layer 3
-
-rem *** village_house_010 ***
-Object.create village_house_010
-Object.absolutePosition -116.438/780.210/-841.125
-Object.layer 3
-
-rem *** village_house_011 ***
-Object.create village_house_011
-Object.absolutePosition -94.528/780.210/-915.115
-Object.layer 3
-
-rem *** village_house_012_open ***
-Object.create village_house_012_open
-Object.absolutePosition -94.528/780.210/-890.017
-Object.layer 3
-
-rem *** village_house_013_cls ***
-Object.create village_house_013_cls
-Object.absolutePosition -94.528/780.210/-865.886
-Object.layer 3
-
-rem *** village_house_014_des ***
-Object.create village_house_014_des
-Object.absolutePosition -94.528/780.210/-841.125
-Object.layer 3
 
 rem *** trainbridge ***
 Object.create trainbridge
@@ -611,186 +344,6 @@ Object.create bulge_house_03_cls
 Object.absolutePosition 705.037/40.565/-662.747
 Object.rotation 47.6/0.0/0.0
 Object.layer 1
-
-rem *** coalstorage ***
-Object.create coalstorage
-Object.absolutePosition 60.365/805.920/-871.826
-Object.layer 3
-
-rem *** concretecrossing ***
-Object.create concretecrossing
-Object.absolutePosition 77.716/807.080/-871.826
-Object.layer 3
-
-rem *** france_trainbridge ***
-Object.create france_trainbridge
-Object.absolutePosition 48.521/805.920/-887.114
-Object.layer 3
-
-rem *** france_trainbridge_wide ***
-Object.create france_trainbridge_wide
-Object.absolutePosition 47.575/807.080/-904.409
-Object.layer 3
-
-rem *** railroadhouse ***
-Object.create railroadhouse
-Object.absolutePosition 71.805/805.920/-886.949
-Object.layer 3
-
-rem *** woodencrossing ***
-Object.create woodencrossing
-Object.absolutePosition 78.350/808.194/-877.707
-Object.layer 3
-
-rem *** trainplatform_r ***
-Object.create trainplatform_r
-Object.absolutePosition 78.350/808.194/-925.049
-Object.layer 3
-
-rem *** railroad_bridgecolumn_concrete1b ***
-Object.create railroad_bridgecolumn_concrete1b
-Object.absolutePosition 42.364/808.194/-932.806
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone01a ***
-Object.create railroad_bridgecolumn_stone01a
-Object.absolutePosition 52.107/808.194/-932.806
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone01b ***
-Object.create railroad_bridgecolumn_stone01b
-Object.absolutePosition 61.406/808.194/-932.806
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone12b ***
-Object.create railroad_bridgecolumn_stone12b
-Object.absolutePosition 42.364/808.194/-944.721
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone21a ***
-Object.create railroad_bridgecolumn_stone21a
-Object.absolutePosition 52.107/808.194/-944.721
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone21b ***
-Object.create railroad_bridgecolumn_stone21b
-Object.absolutePosition 61.406/808.194/-944.721
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone22a ***
-Object.create railroad_bridgecolumn_stone22a
-Object.absolutePosition 33.065/808.194/-950.554
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone22b ***
-Object.create railroad_bridgecolumn_stone22b
-Object.absolutePosition 42.364/808.194/-950.554
-Object.layer 3
-
-rem *** railroad_bridgehead_stone22 ***
-Object.create railroad_bridgehead_stone22
-Object.absolutePosition 33.065/808.194/-956.946
-Object.layer 3
-
-rem *** railroad_bridgehead_concrete1 ***
-Object.create railroad_bridgehead_concrete1
-Object.absolutePosition 42.364/808.194/-956.946
-Object.layer 3
-
-rem *** railroad_bridgeseg_frameworka1 ***
-Object.create railroad_bridgeseg_frameworka1
-Object.absolutePosition 52.107/808.194/-962.428
-Object.layer 3
-
-rem *** railroad_bridgeseg_frameworka2 ***
-Object.create railroad_bridgeseg_frameworka2
-Object.absolutePosition 61.406/808.194/-962.428
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone11a ***
-Object.create railroad_bridgecolumn_stone11a
-Object.absolutePosition 52.107/808.194/-938.328
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone11b ***
-Object.create railroad_bridgecolumn_stone11b
-Object.absolutePosition 61.406/808.194/-938.328
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone02b ***
-Object.create railroad_bridgecolumn_stone02b
-Object.absolutePosition 42.364/808.194/-938.328
-Object.layer 3
-
-rem *** drg_gw_o_halle1_static ***
-Object.create drg_gw_o_halle1_static
-Object.absolutePosition 27.411/808.194/-980.349
-Object.layer 3
-
-rem *** railroad_trackcrossing_concrete_1_normal ***
-Object.create railroad_trackcrossing_concrete_1_normal
-Object.absolutePosition 39.276/808.194/-980.349
-Object.layer 3
-
-rem *** railroad_trackcrossing_wood_2a_4m_fr ***
-Object.create railroad_trackcrossing_wood_2a_4m_fr
-Object.absolutePosition 52.107/808.194/-980.349
-Object.layer 3
-
-rem *** train_signal ***
-Object.create train_signal
-Object.absolutePosition 61.406/808.194/-980.349
-Object.layer 3
-
-rem *** railroad_bridgecolumn_concrete1a ***
-Object.create railroad_bridgecolumn_concrete1a
-Object.absolutePosition 33.065/808.194/-932.806
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone02a ***
-Object.create railroad_bridgecolumn_stone02a
-Object.absolutePosition 33.065/808.194/-938.328
-Object.layer 3
-
-rem *** railroad_bridgecolumn_stone12a ***
-Object.create railroad_bridgecolumn_stone12a
-Object.absolutePosition 33.065/808.194/-944.721
-Object.layer 3
-
-rem *** railroad_track_straight_96m ***
-Object.create railroad_track_straight_96m
-Object.absolutePosition 8.474/808.194/-877.180
-Object.layer 3
-
-rem *** railroad_track_straight_72m ***
-Object.create railroad_track_straight_72m
-Object.absolutePosition -2.627/808.194/-865.967
-Object.layer 3
-
-rem *** railroad_track_straight_48m ***
-Object.create railroad_track_straight_48m
-Object.absolutePosition -11.607/808.194/-855.993
-Object.layer 3
-
-rem *** railroad_switch_s20d_left2_r100 ***
-Object.create railroad_switch_s20d_left2_r100
-Object.absolutePosition 8.474/808.194/-979.627
-Object.layer 3
-
-rem *** railroad_trackstop_threshold_24m ***
-Object.create railroad_trackstop_threshold_24m
-Object.absolutePosition -2.627/808.194/-924.725
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_020degree ***
-Object.create railroad_track_elbow_r100m_020degree
-Object.absolutePosition -11.607/808.194/-919.838
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_010degree ***
-Object.create railroad_track_elbow_r100m_010degree
-Object.absolutePosition -11.607/808.194/-939.726
-Object.layer 3
 
 rem *** railroad_track_straight_96m ***
 Object.create railroad_track_straight_96m
@@ -830,51 +383,11 @@ Object.rotation -55.6/-0.1/0.0
 Object.layer 1
 Object.group 14
 
-rem *** barn_01 ***
-Object.create barn_01
-Object.absolutePosition 684.662/426.115/108.324
-Object.layer 3
-
-rem *** barn_02 ***
-Object.create barn_02
-Object.absolutePosition 671.862/426.115/81.914
-Object.layer 3
-
-rem *** barn_02_cls ***
-Object.create barn_02_cls
-Object.absolutePosition 687.844/426.115/81.914
-Object.layer 3
-
-rem *** open_garage ***
-Object.create open_garage
-Object.absolutePosition 714.112/426.115/104.287
-Object.layer 3
-
 rem *** village_house_005_cls ***
 Object.create village_house_005_cls
 Object.absolutePosition 484.887/87.940/1.337
 Object.rotation -90.0/0.0/0.0
 Object.layer 1
-
-rem *** village_house_006 ***
-Object.create village_house_006
-Object.absolutePosition 672.072/426.115/60.203
-Object.layer 3
-
-rem *** village_house_010 ***
-Object.create village_house_010
-Object.absolutePosition 651.688/426.115/40.672
-Object.layer 3
-
-rem *** village_house_012_open ***
-Object.create village_house_012_open
-Object.absolutePosition 651.688/426.115/76.772
-Object.layer 3
-
-rem *** village_house_014_des ***
-Object.create village_house_014_des
-Object.absolutePosition 651.688/426.115/116.592
-Object.layer 3
 
 rem *** stonewall_thick_rounded ***
 Object.create stonewall_thick_rounded
@@ -918,12 +431,6 @@ Object.absolutePosition -460.180/99.478/-31.762
 Object.rotation 0.0/-4.0/0.0
 Object.layer 1
 
-rem *** copplestonebridge ***
-Object.create copplestonebridge
-Object.absolutePosition -28.134/802.611/-931.773
-Object.rotation 89.1/0.0/0.0
-Object.layer 3
-
 rem *** stairs_straigt_2m_france ***
 Object.create stairs_straigt_2m_france
 Object.absolutePosition 411.936/94.460/50.320
@@ -949,36 +456,6 @@ Object.absolutePosition 412.863/97.848/58.181
 Object.rotation -70.4/0.0/0.0
 Object.layer 1
 
-rem *** cover_drystonewall_4_5m_straight_nocurve ***
-Object.create cover_drystonewall_4_5m_straight_nocurve
-Object.absolutePosition 641.861/465.171/67.212
-Object.rotation -70.4/1.0/-0.2
-Object.layer 3
-
-rem *** cover_drystonewall_4_75m_straight_nocurve ***
-Object.create cover_drystonewall_4_75m_straight_nocurve
-Object.absolutePosition 643.878/465.080/72.471
-Object.rotation -70.4/1.0/-0.2
-Object.layer 3
-
-rem *** cover_drystonewall_5m_arch ***
-Object.create cover_drystonewall_5m_arch
-Object.absolutePosition 646.464/465.123/80.136
-Object.rotation -70.4/1.0/-0.2
-Object.layer 3
-
-rem *** cover_drystonewall_5m_straight ***
-Object.create cover_drystonewall_5m_straight
-Object.absolutePosition 648.639/465.101/86.243
-Object.rotation -70.4/1.0/-0.2
-Object.layer 3
-
-rem *** cover_drystonewall_5m_x_2m ***
-Object.create cover_drystonewall_5m_x_2m
-Object.absolutePosition 650.400/465.082/91.185
-Object.rotation -70.4/1.0/-0.2
-Object.layer 3
-
 rem *** cover_drystonewall_5m_arch ***
 Object.create cover_drystonewall_5m_arch
 Object.absolutePosition 417.177/97.988/54.565
@@ -991,53 +468,10 @@ Object.absolutePosition 403.169/93.568/69.548
 Object.rotation -70.6/0.0/0.0
 Object.layer 1
 
-rem *** eurowall3_high_24m ***
-Object.create eurowall3_high_24m
-Object.absolutePosition 634.664/416.469/92.825
-Object.rotation -30.8/0.0/0.0
-Object.layer 3
-
-rem *** eurowall2_high_24m ***
-Object.create eurowall2_high_24m
-Object.absolutePosition 631.590/415.640/99.925
-Object.rotation -30.8/0.0/0.0
-Object.layer 3
-
-rem *** eurowall1_high_24m ***
-Object.create eurowall1_high_24m
-Object.absolutePosition 631.265/415.153/103.582
-Object.rotation -30.8/0.0/0.0
-Object.layer 3
-
 rem *** ruin_01 ***
 Object.create ruin_01
 Object.absolutePosition 446.382/91.008/-55.525
 Object.layer 1
-
-rem *** railroad_track_elbow_r100m_0225degree ***
-Object.create railroad_track_elbow_r100m_0225degree
-Object.absolutePosition 639.881/433.474/-55.422
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_020degree ***
-Object.create railroad_track_elbow_r100m_020degree
-Object.absolutePosition 646.593/433.474/-55.422
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_015degree ***
-Object.create railroad_track_elbow_r100m_015degree
-Object.absolutePosition 654.168/843.395/-55.422
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_010degree ***
-Object.create railroad_track_elbow_r100m_010degree
-Object.absolutePosition 661.189/843.395/-55.422
-Object.layer 3
-
-rem *** railroad_track_elbow_r100m_005degree ***
-Object.create railroad_track_elbow_r100m_005degree
-Object.absolutePosition 669.145/843.395/-55.422
-Object.layer 3
 
 rem *** france_trainbridge_wide ***
 Object.create france_trainbridge_wide
@@ -1234,27 +668,10 @@ Object.rotation -95.5/-1.0/0.0
 Object.layer 1
 Object.group 22
 
-rem *** steel_trainbridge_diagonal ***
-Object.create steel_trainbridge_diagonal
-Object.absolutePosition 45.693/805.920/-920.747
-Object.layer 3
-
 rem *** village_house_005 ***
 Object.create village_house_005
 Object.absolutePosition 490.891/51.530/-573.998
 Object.layer 1
-
-rem *** stonebridge_35m_des ***
-Object.create stonebridge_35m_des
-Object.absolutePosition -39.497/784.760/-931.129
-Object.rotation 86.8/0.0/0.0
-Object.layer 3
-
-rem *** concretebricksbridge_canalbridge ***
-Object.create concretebricksbridge_canalbridge
-Object.absolutePosition -54.870/783.974/-925.134
-Object.rotation 86.8/0.0/0.0
-Object.layer 3
 
 rem *** concretebricksbridge_canalbridge ***
 Object.create concretebricksbridge_canalbridge
@@ -1613,30 +1030,6 @@ Object.absolutePosition -704.287/43.550/-642.084
 Object.rotation 86.0/0.0/0.0
 Object.layer 1
 
-rem *** stavelot_bridge_norail ***
-Object.create stavelot_bridge_norail
-Object.absolutePosition -272.003/772.875/-898.106
-Object.rotation 87.7/0.0/0.0
-Object.layer 3
-
-rem *** stavelot_fountain ***
-Object.create stavelot_fountain
-Object.absolutePosition -253.376/772.875/-897.364
-Object.rotation 87.7/0.0/0.0
-Object.layer 3
-
-rem *** cobblestone_viaduct ***
-Object.create cobblestone_viaduct
-Object.absolutePosition -232.270/772.875/-908.440
-Object.rotation 87.7/0.0/0.0
-Object.layer 3
-
-rem *** copplestonebridge_big ***
-Object.create copplestonebridge_big
-Object.absolutePosition -213.741/769.915/-891.363
-Object.rotation 87.7/0.0/0.0
-Object.layer 3
-
 rem *** cobblestone_viaduct ***
 Object.create cobblestone_viaduct
 Object.absolutePosition -419.555/27.491/-821.820
@@ -1652,7 +1045,7 @@ Object.layer 1
 rem *** plane_32m ***
 Object.create plane_32m
 Object.absolutePosition -512.219/105.563/-220.062
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -1722,36 +1115,6 @@ Object.create barn_03_cls
 Object.absolutePosition -480.803/108.767/12.243
 Object.rotation 65.9/0.0/0.0
 Object.layer 1
-
-rem *** townshed001 ***
-Object.create townshed001
-Object.absolutePosition -340.202/782.748/-873.913
-Object.layer 3
-
-rem *** townshed002 ***
-Object.create townshed002
-Object.absolutePosition -333.311/782.748/-873.913
-Object.layer 3
-
-rem *** townshed003 ***
-Object.create townshed003
-Object.absolutePosition -323.914/783.402/-873.913
-Object.layer 3
-
-rem *** townshed004 ***
-Object.create townshed004
-Object.absolutePosition -315.672/783.402/-873.913
-Object.layer 3
-
-rem *** townshed005 ***
-Object.create townshed005
-Object.absolutePosition -307.308/783.402/-873.913
-Object.layer 3
-
-rem *** townshed006 ***
-Object.create townshed006
-Object.absolutePosition -298.863/783.402/-873.913
-Object.layer 3
 
 rem *** townshed003 ***
 Object.create townshed003
@@ -2069,7 +1432,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_16m ***
 Object.create wip_plane_16m
 Object.absolutePosition -660.523/102.946/-174.885
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -2083,7 +1446,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -616.075/104.504/-165.477
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -2118,7 +1481,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_16m ***
 Object.create wip_plane_16m
 Object.absolutePosition -653.246/91.566/-245.689
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -2230,36 +1593,6 @@ Object.absolutePosition -417.578/197.927/785.537
 Object.rotation -177.0/0.0/3.0
 Object.layer 1
 
-rem *** trench_10m ***
-Object.create trench_10m
-Object.absolutePosition -112.570/797.545/-789.197
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** foxhole_big ***
-Object.create foxhole_big
-Object.absolutePosition 48.818/802.723/-816.341
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** foxhole_big_cover ***
-Object.create foxhole_big_cover
-Object.absolutePosition 60.143/803.113/-812.618
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** foxhole_bulge ***
-Object.create foxhole_bulge
-Object.absolutePosition 45.060/801.970/-804.912
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** foxhole_small ***
-Object.create foxhole_small
-Object.absolutePosition 56.386/803.763/-801.189
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
 rem *** gravestone1_snow ***
 Object.create gravestone1_snow
 Object.absolutePosition 420.593/98.118/54.839
@@ -2291,89 +1624,11 @@ Object.absolutePosition 424.180/97.821/58.466
 Object.rotation -53.6/0.0/0.0
 Object.layer 1
 
-rem *** ru_trenchsmall ***
-Object.create ru_trenchsmall
-Object.absolutePosition 57.015/804.565/-787.593
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** ru_dirttrench_30m ***
-Object.create ru_dirttrench_30m
-Object.absolutePosition 87.064/806.220/-808.775
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
-rem *** ru_dirttrench_8m ***
-Object.create ru_dirttrench_8m
-Object.absolutePosition 82.384/806.419/-794.541
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
 rem *** ru_dirttrench_8m ***
 Object.create ru_dirttrench_8m
 Object.absolutePosition -476.535/194.848/667.814
 Object.rotation -22.1/-5.0/-14.8
 Object.layer 1
-
-rem *** rock10m ***
-Object.create rock10m
-Object.absolutePosition 140.402/826.594/-760.518
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rock20m ***
-Object.create rock20m
-Object.absolutePosition 131.482/826.594/-771.535
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rock25m ***
-Object.create rock25m
-Object.absolutePosition 123.261/826.594/-781.686
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rock2m ***
-Object.create rock2m
-Object.absolutePosition 114.341/826.594/-792.702
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rock5m ***
-Object.create rock5m
-Object.absolutePosition 128.922/826.594/-751.222
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rockpile_1 ***
-Object.create rockpile_1
-Object.absolutePosition 152.585/826.594/-788.624
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rockpile_large ***
-Object.create rockpile_large
-Object.absolutePosition 114.825/826.594/-768.630
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rockpile_medium ***
-Object.create rockpile_medium
-Object.absolutePosition 102.860/826.594/-783.406
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rockpile_medium_02 ***
-Object.create rockpile_medium_02
-Object.absolutePosition 116.825/826.594/-741.425
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
-
-rem *** rockpile_small ***
-Object.create rockpile_small
-Object.absolutePosition 107.904/826.594/-752.442
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
 
 rem *** rockpile_medium_02 ***
 Object.create rockpile_medium_02
@@ -2393,12 +1648,6 @@ Object.absolutePosition -480.354/196.957/674.227
 Object.rotation -104.7/-20.5/114.8
 Object.layer 1
 
-rem *** ru_dirthole_deep ***
-Object.create ru_dirthole_deep
-Object.absolutePosition 39.201/802.301/-793.049
-Object.rotation -108.2/0.0/0.0
-Object.layer 3
-
 rem *** ru_pak_improvised_cover ***
 Object.create ru_pak_improvised_cover
 Object.absolutePosition -374.005/189.263/683.009
@@ -2410,12 +1659,6 @@ Object.create ru_dirttrench_30m
 Object.absolutePosition -445.395/192.316/710.674
 Object.rotation -13.2/0.0/0.0
 Object.layer 1
-
-rem *** ru_dirthole_big ***
-Object.create ru_dirthole_big
-Object.absolutePosition 77.623/805.967/-801.991
-Object.rotation 68.3/0.0/0.0
-Object.layer 3
 
 rem *** rock5m ***
 Object.create rock5m
@@ -2464,12 +1707,6 @@ Object.create rock10m
 Object.absolutePosition 142.793/34.411/-476.053
 Object.rotation 129.0/0.1/90.0
 Object.layer 1
-
-rem *** rock10m ***
-Object.create rock10m
-Object.absolutePosition -55.017/794.907/-825.321
-Object.rotation 39.0/0.0/0.0
-Object.layer 3
 
 rem *** rock10m ***
 Object.create rock10m
@@ -2537,20 +1774,6 @@ Object.create village_house_014_des
 Object.absolutePosition 362.827/92.725/25.987
 Object.rotation -148.3/0.0/0.0
 Object.layer 1
-
-rem *** transmissionstation_france ***
-Object.create transmissionstation_france
-Object.absolutePosition 633.685/463.562/102.836
-Object.rotation -28.1/0.0/0.0
-Object.layer 3
-Object.group 18
-
-rem *** trainstation_waterfountain ***
-Object.create trainstation_waterfountain
-Object.absolutePosition 633.119/462.998/108.898
-Object.rotation -28.1/0.0/0.0
-Object.layer 3
-Object.group 18
 
 rem *** stonne_townhall ***
 Object.create stonne_townhall
@@ -3294,78 +2517,6 @@ Object.absolutePosition 402.161/102.958/108.421
 Object.rotation -24.4/0.0/0.0
 Object.layer 1
 
-rem *** townhouse_ruine001 ***
-Object.create townhouse_ruine001
-Object.absolutePosition 604.785/859.462/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine002 ***
-Object.create townhouse_ruine002
-Object.absolutePosition 621.673/859.462/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine003 ***
-Object.create townhouse_ruine003
-Object.absolutePosition 639.108/859.462/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine004 ***
-Object.create townhouse_ruine004
-Object.absolutePosition 655.160/859.462/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine005 ***
-Object.create townhouse_ruine005
-Object.absolutePosition 621.911/875.055/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine009 ***
-Object.create townhouse_ruine009
-Object.absolutePosition 639.787/875.055/305.679
-Object.rotation 90.5/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine009_alt ***
-Object.create townhouse_ruine009_alt
-Object.absolutePosition 659.941/875.055/305.505
-Object.rotation 90.5/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine010 ***
-Object.create townhouse_ruine010
-Object.absolutePosition 651.406/875.055/305.578
-Object.rotation 90.5/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine011 ***
-Object.create townhouse_ruine011
-Object.absolutePosition 604.785/875.055/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine012 ***
-Object.create townhouse_ruine012
-Object.absolutePosition 604.785/894.164/305.872
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine013 ***
-Object.create townhouse_ruine013
-Object.absolutePosition 621.744/893.879/303.236
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
-rem *** townhouse_ruine014 ***
-Object.create townhouse_ruine014
-Object.absolutePosition 646.726/892.775/303.236
-Object.rotation 90.0/0.0/0.0
-Object.layer 3
-
 rem *** townhouse_ruine009 ***
 Object.create townhouse_ruine009
 Object.absolutePosition 408.535/90.394/186.437
@@ -3377,61 +2528,6 @@ Object.create ruinset1_part_a
 Object.absolutePosition 715.427/423.311/303.234
 Object.rotation -89.5/0.0/0.0
 Object.layer 1
-
-rem *** ruinset1_part_b ***
-Object.create ruinset1_part_b
-Object.absolutePosition 700.353/859.500/304.665
-Object.layer 3
-
-rem *** ruinset1_part_c ***
-Object.create ruinset1_part_c
-Object.absolutePosition 682.995/859.500/304.665
-Object.layer 3
-
-rem *** ruinset1_part_d ***
-Object.create ruinset1_part_d
-Object.absolutePosition 684.827/880.967/304.665
-Object.layer 3
-
-rem *** ruinset1_part_e ***
-Object.create ruinset1_part_e
-Object.absolutePosition 701.589/880.967/304.665
-Object.layer 3
-
-rem *** ruinset1_part_f ***
-Object.create ruinset1_part_f
-Object.absolutePosition 717.577/881.513/304.665
-Object.layer 3
-
-rem *** ruinset2_part_a ***
-Object.create ruinset2_part_a
-Object.absolutePosition 684.827/903.298/304.665
-Object.layer 3
-
-rem *** ruinset2_part_b ***
-Object.create ruinset2_part_b
-Object.absolutePosition 675.904/942.250/279.006
-Object.layer 3
-
-rem *** ruinset2_part_c ***
-Object.create ruinset2_part_c
-Object.absolutePosition 690.529/940.627/281.289
-Object.layer 3
-
-rem *** ruinset2_part_d ***
-Object.create ruinset2_part_d
-Object.absolutePosition 691.742/940.194/292.192
-Object.layer 3
-
-rem *** ruinset2_part_e ***
-Object.create ruinset2_part_e
-Object.absolutePosition 674.295/942.262/279.870
-Object.layer 3
-
-rem *** ruinset2_part_f ***
-Object.create ruinset2_part_f
-Object.absolutePosition 688.553/940.705/279.870
-Object.layer 3
 
 rem *** ruinset2_part_d ***
 Object.create ruinset2_part_d
@@ -3744,30 +2840,6 @@ Object.rotation -172.0/0.0/0.0
 Object.layer 1
 Object.group 12
 
-rem *** eurowall1_high_segment4 ***
-Object.create eurowall1_high_segment4
-Object.absolutePosition 623.789/417.832/85.549
-Object.rotation 170.0/0.0/0.0
-Object.layer 3
-
-rem *** eurowall1_high_segment3 ***
-Object.create eurowall1_high_segment3
-Object.absolutePosition 627.313/417.569/86.362
-Object.rotation 170.0/0.0/0.0
-Object.layer 3
-
-rem *** eurowall1_high_pillar2 ***
-Object.create eurowall1_high_pillar2
-Object.absolutePosition 623.453/418.824/77.956
-Object.rotation -69.0/0.0/0.0
-Object.layer 3
-
-rem *** eurowall1_high_pillar4 ***
-Object.create eurowall1_high_pillar4
-Object.absolutePosition 624.681/418.708/78.365
-Object.rotation -69.0/0.0/0.0
-Object.layer 3
-
 rem *** eurowall1_high_pillar3 ***
 Object.create eurowall1_high_pillar3
 Object.absolutePosition 443.808/97.807/82.936
@@ -3829,27 +2901,6 @@ Object.create panther_g_wreck_ard
 Object.absolutePosition 448.734/97.557/119.183
 Object.rotation -84.2/3.9/0.0
 Object.layer 1
-
-rem *** pine_des_sml ***
-Object.create pine_des_sml
-Object.absolutePosition 630.615/463.720/99.567
-Object.layer 3
-Object.group 18
-Object.isOvergrowth 1
-
-rem *** pine_des_med ***
-Object.create pine_des_med
-Object.absolutePosition 628.818/463.786/101.390
-Object.layer 3
-Object.group 18
-Object.isOvergrowth 1
-
-rem *** plane_10m_destroyed ***
-Object.create plane_10m_destroyed
-Object.absolutePosition 627.345/466.904/106.546
-Object.layer 3
-Object.group 18
-Object.isOvergrowth 1
 
 rem *** pine_des_sml ***
 Object.create pine_des_sml
@@ -4640,11 +3691,6 @@ Object.absolutePosition 394.560/93.362/257.544
 Object.rotation -118.2/0.0/0.0
 Object.layer 1
 
-rem *** bulge_house_11_cls ***
-Object.create bulge_house_11_cls
-Object.absolutePosition -178.442/761.068/-736.901
-Object.layer 3
-
 rem *** eurowall1_ironfence1_segment1 ***
 Object.create eurowall1_ironfence1_segment1
 Object.absolutePosition 438.085/96.676/158.450
@@ -5223,7 +4269,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition 654.172/95.543/8.497
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -5318,14 +4364,14 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -774.417/56.312/-853.037
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -498.509/45.048/-826.970
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -5346,7 +4392,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -366.131/47.891/-992.994
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -5972,7 +5018,7 @@ Object.layer 1
 rem *** france_woodlog_250cm ***
 Object.create france_woodlog_250cm
 Object.absolutePosition 645.822/91.621/-44.991
-Object.rotation -129.5/89.5/-180.0
+Object.rotation -129.5/89.5/180.0
 Object.layer 1
 
 rem *** france_woodlog_250cm ***
@@ -6274,7 +5320,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -82.446/62.793/-228.593
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -6495,11 +5541,6 @@ Object.create eurowall1_high_pillar3
 Object.absolutePosition -446.594/59.414/-434.484
 Object.rotation -142.0/0.0/0.0
 Object.layer 1
-
-rem *** france_trainbridge_base_doublelane ***
-Object.create france_trainbridge_base_doublelane
-Object.absolutePosition 131.440/818.648/-882.907
-Object.layer 3
 
 rem *** fh_cablepole_1arm ***
 Object.create fh_cablepole_1arm
@@ -8031,7 +7072,7 @@ Object.isOvergrowth 1
 rem *** ersatzfeldwagen_40 ***
 Object.create ersatzfeldwagen_40
 Object.absolutePosition 501.772/99.208/398.281
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 
 rem *** farmwall_pillar ***
@@ -8136,7 +7177,7 @@ Object.layer 1
 rem *** farmwall_corner ***
 Object.create farmwall_corner
 Object.absolutePosition 515.336/55.471/-593.635
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 
 rem *** farmwall_pillar ***

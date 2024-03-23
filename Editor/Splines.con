@@ -263,7 +263,7 @@ SplineManager.AddControlPoint 343.489/83.5457/202.758
 SplineManager.AddControlPoint 362.894/86.4249/213.439
 SplineManager.AddControlPoint 388.368/93.6476/237.994
 SplineManager.AddControlPoint 395.935/95.3375/243.741
-SplineManager.AddControlPoint 402.621/96.0653/247.757
+SplineManager.AddControlPoint 402.87/95.485/247.056
 SplineManager.AddControlPoint 410.84/95.8496/249.974
 SplineManager.End
 
@@ -344,7 +344,7 @@ SplineManager.setLineWidth 0.3
 SplineManager.setStepSize 1
 SplineManager.AddControlPoint 394.543/95.1957/270.812
 SplineManager.AddControlPoint 407.42/95.6564/247.275
-SplineManager.AddControlPoint 413.787/95.7458/225.377
+SplineManager.AddControlPoint 414.743/95.6645/222.351
 SplineManager.AddControlPoint 421.268/95.8977/204.682
 SplineManager.AddControlPoint 427.497/96.0843/192.016
 SplineManager.AddControlPoint 441.056/96.6102/166.26
@@ -501,10 +501,10 @@ SplineManager.AddControlPoint 645.567/91.1497/642.239
 SplineManager.AddControlPoint 692.704/90.6253/670.055
 SplineManager.AddControlPoint 742.18/92.0731/697.093
 SplineManager.AddControlPoint 772.642/94.3314/716.291
-SplineManager.AddControlPoint 801.01/95.8678/739.807
-SplineManager.AddControlPoint 823.315/100.78/778.617
-SplineManager.AddControlPoint 842.656/103.892/809.997
-SplineManager.AddControlPoint 867.615/100.659/840.798
+SplineManager.AddControlPoint 801.047/95.9232/739.904
+SplineManager.AddControlPoint 822.365/100.587/777.544
+SplineManager.AddControlPoint 842.361/103.156/809.997
+SplineManager.AddControlPoint 867.615/100.659/840.631
 SplineManager.AddControlPoint 892.495/101.266/862.364
 SplineManager.AddControlPoint 910.678/100.763/879.852
 SplineManager.AddControlPoint 933.017/101.412/903.97

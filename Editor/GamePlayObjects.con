@@ -329,6 +329,7 @@ ObjectTemplate.setObjectTemplate 1 autogyro
 ObjectTemplate.setObjectTemplate 2 autogyro
 ObjectTemplate.minSpawnDelay 5
 ObjectTemplate.maxSpawnDelay 5
+ObjectTemplate.team 2
 ObjectTemplate.teamOnVehicle 1
 
 rem [ObjectSpawnerTemplate: CP_64_cmp_lagleize_reinforcements_axis_1]
@@ -478,7 +479,7 @@ if v_arg1 == host
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_02]
    Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_02
    Object.absolutePosition -808.656/54.089/-930.734
-   Object.rotation 180.000/0.000/0.000
+   Object.rotation -180.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
@@ -513,7 +514,7 @@ if v_arg1 == host
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_truck_ammo]
    Object.create CP_64_cmp_lagleize_mainbase_allied_truck_ammo
    Object.absolutePosition -808.656/54.208/-918.941
-   Object.rotation 180.000/0.000/0.000
+   Object.rotation -180.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
