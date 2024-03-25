@@ -970,17 +970,17 @@ SplineManager.End
 rem ** [Spline] - 44 **
 SplineManager.CreateInstance
 SplineManager.SetId 44
-SplineManager.SetControlPointSnapModes 15
+SplineManager.SetControlPointSnapModes 1
 SplineManager.setLineWidth 0.3
 SplineManager.setStepSize 1
-SplineManager.AddControlPoint -152.807/140.135/417.952
-SplineManager.AddControlPoint -152.443/142.09/437.712
-SplineManager.AddControlPoint -149.813/141.985/463.542
-SplineManager.AddControlPoint -147.86/145.276/507.163
-SplineManager.AddControlPoint -146.947/151.035/533.852
-SplineManager.AddControlPoint -137.099/153.189/565.691
-SplineManager.AddControlPoint -116.899/164.31/595.653
-SplineManager.AddControlPoint -83.9351/171.876/627.025
+SplineManager.AddControlPoint -150.78/142.911/427.454
+SplineManager.AddControlPoint -150.558/143.039/449.889
+SplineManager.AddControlPoint -150.419/142.339/468.781
+SplineManager.AddControlPoint -148.159/146.683/509.74
+SplineManager.AddControlPoint -145.559/150.551/535.87
+SplineManager.AddControlPoint -138.639/151.871/554.161
+SplineManager.AddControlPoint -122.854/159.591/593.798
+SplineManager.AddControlPoint -99.8011/162.814/618.073
 SplineManager.End
 
 rem ** [Spline] - 45 **

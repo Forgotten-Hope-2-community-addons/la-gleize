@@ -255,6 +255,26 @@ run /objects/vehicles/land/us/gmc/gmc_win_ammo.con
 run /objects/vehicles/land/de/opelblitz_ard/opelblitz_ard.con
 run /objects/vehicles/land/us/gmc/gmc_win.con
 run /objects/vehicles/air/de/autogyro/autogyro.con
+run /objects/vegitation/west_europe/fh_deadlog/fh_deadlog.con
+run /objects/vegitation/west_europe/fh_deadlog/fh_deadlog_lod.con
+run /objects/staticobjects/france/fences/woodenfence/woodenfence_250cm_high/woodenfence_250cm_high.con
+run /objects/staticobjects/france/fences/woodenfence/woodenfence_pole/woodenfence_pole.con
+run /objects/staticobjects/genericmilitary/m1_rocketbox/m1_rocketbox.con
+run /objects/staticobjects/genericmilitary/mortarjunk/ammoboxclosed/ammoboxclosed.con
+run /objects/staticobjects/supplyobjects/x_player_ammobox_closed/x_player_ammobox_closed.con
+run /objects/staticobjects/common/fhcrates/crate_small/crate_small.con
+run /objects/staticobjects/common/fhcrates/ammocrate_medium/ammocrate_medium.con
+run /objects/staticobjects/common/fhcrates/crate_small2/crate_small2.con
+run /objects/staticobjects/france/bunker/pdh_observation_bunker/pdh_observation_bunker_camonet/pdh_observation_bunker_camonet.con
+run /objects/staticobjects/genericmilitary/sandbags/sandbg_slopedsm/sandbg_slopedsm.con
+run /objects/staticobjects/genericmilitary/sandbags/sandbg_sml_d/sandbg_sml_d.con
+run /objects/staticobjects/genericmilitary/sandbags/sandbg_sml_c/sandbg_sml_c.con
+run /objects/staticobjects/genericmilitary/sandbags/sandbg_sml_b/sandbg_sml_b.con
+run /objects/staticobjects/genericmilitary/sandbags/sandbg_sml_a/sandbg_sml_a.con
+run /objects/staticobjects/france/furniture/bottle/bottle.con
+run /objects/staticobjects/france/furniture/bottle/beerbottle.con
+run /objects/staticobjects/genericmilitary/fh_us_radio/fh_us_radio.con
+run /objects/staticobjects/france/furniture/squaretable_wood/squaretable_wood.con
 run /objects/vegitation/west_europe/pine_22m/pine_22m.con
 run /objects/vegitation/west_europe/pine_22m/pine_22m_lod.con
 run /objects/vegitation/wip_stvith/wip_bush_2/wip_bush_2.con
@@ -1045,13 +1065,13 @@ Object.layer 1
 rem *** plane_32m ***
 Object.create plane_32m
 Object.absolutePosition -512.219/105.563/-220.062
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
 rem *** fh_sawmill ***
 Object.create fh_sawmill
-Object.absolutePosition -435.025/193.340/727.591
+Object.absolutePosition -435.025/193.157/727.591
 Object.rotation -108.2/0.0/0.0
 Object.layer 1
 
@@ -1432,7 +1452,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_16m ***
 Object.create wip_plane_16m
 Object.absolutePosition -660.523/102.946/-174.885
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -1446,7 +1466,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -616.075/104.504/-165.477
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -1481,7 +1501,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_16m ***
 Object.create wip_plane_16m
 Object.absolutePosition -653.246/91.566/-245.689
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -1626,9 +1646,10 @@ Object.layer 1
 
 rem *** ru_dirttrench_8m ***
 Object.create ru_dirttrench_8m
-Object.absolutePosition -476.535/194.848/667.814
-Object.rotation -22.1/-5.0/-14.8
+Object.absolutePosition -137.661/146.887/533.137
+Object.rotation 85.5/-0.0/-5.2
 Object.layer 1
+Object.group 28
 
 rem *** rockpile_medium_02 ***
 Object.create rockpile_medium_02
@@ -1644,9 +1665,10 @@ Object.layer 1
 
 rem *** rock10m ***
 Object.create rock10m
-Object.absolutePosition -480.354/196.957/674.227
-Object.rotation -104.7/-20.5/114.8
+Object.absolutePosition -130.945/147.441/535.425
+Object.rotation 2.8/-20.5/114.8
 Object.layer 1
+Object.group 28
 
 rem *** ru_pak_improvised_cover ***
 Object.create ru_pak_improvised_cover
@@ -1662,15 +1684,17 @@ Object.layer 1
 
 rem *** rock5m ***
 Object.create rock5m
-Object.absolutePosition -473.557/194.677/667.531
-Object.rotation -42.8/2.7/90.4
+Object.absolutePosition -138.719/147.196/530.560
+Object.rotation 64.7/2.7/90.4
 Object.layer 1
+Object.group 28
 
 rem *** rock5m ***
 Object.create rock5m
-Object.absolutePosition -476.251/195.195/666.794
-Object.rotation 39.0/0.0/0.0
+Object.absolutePosition -138.610/147.478/533.350
+Object.rotation 146.5/0.0/0.0
 Object.layer 1
+Object.group 28
 
 rem *** village_house_003 ***
 Object.create village_house_003
@@ -4269,7 +4293,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition 654.172/95.543/8.497
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -4364,14 +4388,14 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -774.417/56.312/-853.037
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -498.509/45.048/-826.970
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -4392,7 +4416,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -366.131/47.891/-992.994
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -5018,7 +5042,7 @@ Object.layer 1
 rem *** france_woodlog_250cm ***
 Object.create france_woodlog_250cm
 Object.absolutePosition 645.822/91.621/-44.991
-Object.rotation -129.5/89.5/180.0
+Object.rotation -129.5/89.5/-180.0
 Object.layer 1
 
 rem *** france_woodlog_250cm ***
@@ -5320,7 +5344,7 @@ Object.isOvergrowth 1
 rem *** wip_plane_15m ***
 Object.create wip_plane_15m
 Object.absolutePosition -82.446/62.793/-228.593
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 Object.isOvergrowth 1
 
@@ -7072,7 +7096,7 @@ Object.isOvergrowth 1
 rem *** ersatzfeldwagen_40 ***
 Object.create ersatzfeldwagen_40
 Object.absolutePosition 501.772/99.208/398.281
-Object.rotation -180.0/0.0/0.0
+Object.rotation 180.0/0.0/0.0
 Object.layer 1
 
 rem *** farmwall_pillar ***
@@ -7177,7 +7201,7 @@ Object.layer 1
 rem *** farmwall_corner ***
 Object.create farmwall_corner
 Object.absolutePosition 515.336/55.471/-593.635
-Object.rotation 180.0/0.0/0.0
+Object.rotation -180.0/0.0/0.0
 Object.layer 1
 
 rem *** farmwall_pillar ***
@@ -7343,5 +7367,300 @@ rem *** ersatzfeldwagen_40 ***
 Object.create ersatzfeldwagen_40
 Object.absolutePosition 406.099/94.755/130.282
 Object.rotation -39.4/0.0/4.5
+Object.layer 1
+
+rem *** corrugated_metal_plate ***
+Object.create corrugated_metal_plate
+Object.absolutePosition -141.392/146.417/519.968
+Object.rotation 66.2/85.2/174.8
+Object.layer 1
+
+rem *** corrugated_metal_plate ***
+Object.create corrugated_metal_plate
+Object.absolutePosition -141.260/146.242/521.311
+Object.rotation 108.1/86.6/170.7
+Object.layer 1
+
+rem *** rock5m ***
+Object.create rock5m
+Object.absolutePosition -476.251/195.195/666.794
+Object.rotation 39.0/0.0/0.0
+Object.layer 1
+
+rem *** ru_dirttrench_8m ***
+Object.create ru_dirttrench_8m
+Object.absolutePosition -476.535/194.848/667.814
+Object.rotation -22.1/-5.0/-14.8
+Object.layer 1
+
+rem *** rock10m ***
+Object.create rock10m
+Object.absolutePosition -480.354/196.957/674.227
+Object.rotation -104.7/-20.5/114.8
+Object.layer 1
+
+rem *** rock5m ***
+Object.create rock5m
+Object.absolutePosition -473.557/194.677/667.531
+Object.rotation -42.8/2.7/90.4
+Object.layer 1
+
+rem *** ru_dirttrench_8m ***
+Object.create ru_dirttrench_8m
+Object.absolutePosition -141.681/145.695/516.888
+Object.rotation -0.2/-3.3/-0.6
+Object.layer 4
+
+rem *** rock5m ***
+Object.create rock5m
+Object.absolutePosition -141.711/147.045/524.478
+Object.rotation -105.1/0.0/0.0
+Object.layer 4
+
+rem *** wip_pine_19m ***
+Object.create wip_pine_19m
+Object.absolutePosition -140.529/155.200/526.690
+Object.rotation 89.3/-0.3/-0.6
+Object.layer 4
+Object.isOvergrowth 1
+
+rem *** wip_pine_19m ***
+Object.create wip_pine_19m
+Object.absolutePosition -142.600/154.568/516.480
+Object.rotation 22.8/-0.7/0.0
+Object.layer 4
+Object.isOvergrowth 1
+
+rem *** fh_deadlog ***
+Object.create fh_deadlog
+Object.absolutePosition -136.071/149.407/534.098
+Object.rotation -144.5/20.5/7.7
+Object.layer 1
+Object.isOvergrowth 1
+
+rem *** woodenfence_250cm_high ***
+Object.create woodenfence_250cm_high
+Object.absolutePosition -134.199/148.582/533.788
+Object.rotation 94.6/0.5/-96.5
+Object.layer 1
+
+rem *** pine_des_sml ***
+Object.create pine_des_sml
+Object.absolutePosition -136.323/146.825/519.889
+Object.rotation 0.0/11.5/-6.6
+Object.layer 1
+Object.isOvergrowth 1
+
+rem *** woodenfence_pole ***
+Object.create woodenfence_pole
+Object.absolutePosition -133.044/147.234/531.426
+Object.rotation 90.0/0.0/0.0
+Object.layer 1
+
+rem *** woodenfence_pole ***
+Object.create woodenfence_pole
+Object.absolutePosition -136.481/147.288/531.697
+Object.layer 1
+
+rem *** woodenfence_pole ***
+Object.create woodenfence_pole
+Object.absolutePosition -131.411/147.234/531.292
+Object.layer 1
+
+rem *** m1_rocketbox ***
+Object.create m1_rocketbox
+Object.absolutePosition -132.877/146.681/531.110
+Object.rotation -79.7/0.0/0.0
+Object.layer 1
+
+rem *** ammoboxclosed ***
+Object.create ammoboxclosed
+Object.absolutePosition -141.574/148.157/522.587
+Object.rotation 19.4/0.0/0.0
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition -132.105/147.198/530.666
+Object.rotation -96.1/-0.0/-0.5
+Object.layer 1
+
+rem *** crate_small ***
+Object.create crate_small
+Object.absolutePosition -132.695/147.085/531.483
+Object.rotation -10.5/0.0/0.0
+Object.layer 1
+
+rem *** ammocrate_medium ***
+Object.create ammocrate_medium
+Object.absolutePosition -131.774/146.942/530.704
+Object.rotation -3.5/0.1/89.6
+Object.layer 1
+
+rem *** crate_small2 ***
+Object.create crate_small2
+Object.absolutePosition -132.823/146.870/531.267
+Object.rotation 0.5/-89.5/-179.5
+Object.layer 1
+
+rem *** ammoboxclosed ***
+Object.create ammoboxclosed
+Object.absolutePosition -141.484/148.157/522.934
+Object.layer 1
+
+rem *** pdh_observation_bunker_camonet ***
+Object.create pdh_observation_bunker_camonet
+Object.absolutePosition -127.089/147.833/523.545
+Object.rotation 103.4/0.0/0.0
+Object.layer 1
+
+rem *** sandbg_slopedsm ***
+Object.create sandbg_slopedsm
+Object.absolutePosition -122.253/148.446/532.667
+Object.rotation 41.2/-0.7/-3.9
+Object.layer 1
+
+rem *** sandbg_slopedsm ***
+Object.create sandbg_slopedsm
+Object.absolutePosition -121.002/147.959/524.694
+Object.rotation 131.9/0.0/0.0
+Object.layer 1
+
+rem *** sandbg_slopedsm ***
+Object.create sandbg_slopedsm
+Object.absolutePosition -120.250/148.386/530.657
+Object.rotation 51.1/0.0/0.0
+Object.layer 1
+
+rem *** sandbg_sml_d ***
+Object.create sandbg_sml_d
+Object.absolutePosition -123.203/148.873/532.922
+Object.rotation -101.0/0.0/0.0
+Object.layer 1
+
+rem *** sandbg_sml_c ***
+Object.create sandbg_sml_c
+Object.absolutePosition -131.870/146.836/529.830
+Object.rotation -88.2/-76.7/2.1
+Object.layer 1
+
+rem *** sandbg_sml_b ***
+Object.create sandbg_sml_b
+Object.absolutePosition -120.785/148.733/532.034
+Object.rotation 0.0/-7.9/0.4
+Object.layer 1
+
+rem *** sandbg_sml_a ***
+Object.create sandbg_sml_a
+Object.absolutePosition -121.399/148.651/531.269
+Object.rotation -105.1/0.0/16.3
+Object.layer 1
+
+rem *** bottle ***
+Object.create bottle
+Object.absolutePosition -128.653/147.548/521.312
+Object.rotation 101.7/0.0/0.0
+Object.layer 1
+
+rem *** beerbottle ***
+Object.create beerbottle
+Object.absolutePosition -128.483/147.548/521.241
+Object.rotation -102.3/0.0/0.0
+Object.layer 1
+
+rem *** crate_small ***
+Object.create crate_small
+Object.absolutePosition -127.609/147.125/521.028
+Object.rotation 31.6/0.0/0.0
+Object.layer 1
+
+rem *** crate_small2 ***
+Object.create crate_small2
+Object.absolutePosition -128.565/147.125/521.119
+Object.rotation 89.8/0.0/0.0
+Object.layer 1
+
+rem *** crate_small ***
+Object.create crate_small
+Object.absolutePosition -129.437/147.125/521.011
+Object.rotation -179.8/0.0/0.0
+Object.layer 1
+
+rem *** crate_small ***
+Object.create crate_small
+Object.absolutePosition -128.644/147.124/522.121
+Object.rotation 91.0/0.0/0.0
+Object.layer 1
+
+rem *** fh_us_radio ***
+Object.create fh_us_radio
+Object.absolutePosition -128.558/147.548/521.018
+Object.rotation -114.2/0.0/0.0
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition 393.311/94.925/249.616
+Object.rotation 106.4/-0.1/0.4
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition 442.416/99.538/101.672
+Object.rotation -132.6/-0.3/-0.3
+Object.layer 1
+
+rem *** squaretable_wood ***
+Object.create squaretable_wood
+Object.absolutePosition 442.432/98.810/101.677
+Object.rotation 50.6/0.0/0.0
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition 310.268/42.389/-454.039
+Object.rotation 62.5/0.2/0.4
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition -113.461/69.593/-142.183
+Object.rotation 38.5/0.4/0.3
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition -399.872/57.615/-389.409
+Object.rotation 37.4/0.4/0.3
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition 524.124/59.570/-596.254
+Object.rotation 88.9/0.0/0.5
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition -607.352/97.712/-179.346
+Object.rotation -73.0/35.0/0.0
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition -441.320/193.286/721.246
+Object.rotation -20.4/0.4/-0.2
+Object.layer 1
+
+rem *** x_player_ammobox_closed ***
+Object.create x_player_ammobox_closed
+Object.absolutePosition 639.214/92.842/-68.150
+Object.rotation -141.5/-0.4/-0.3
+Object.layer 1
+
+rem *** squaretable_wood ***
+Object.create squaretable_wood
+Object.absolutePosition 639.250/92.111/-68.179
+Object.rotation 50.6/0.0/0.0
 Object.layer 1
 

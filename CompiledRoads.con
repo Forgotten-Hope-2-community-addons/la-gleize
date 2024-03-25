@@ -52,7 +52,7 @@ object.absoluteposition 512.779/81.8049/-255.369
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_08_compiled.mesh
-object.absoluteposition 660.666/98.5571/608.015
+object.absoluteposition 660.651/98.5568/607.998
 
 object.create eppeldorf_mudroad
 object.geometry.loadMesh Levels\la_gleize\Roads\mudroad_09_compiled.mesh

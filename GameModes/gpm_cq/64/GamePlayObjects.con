@@ -443,7 +443,7 @@ if v_arg1 == host
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_halftrack_02]
    Object.create CP_64_cmp_lagleize_mainbase_allied_halftrack_02
    Object.absolutePosition -808.656/54.089/-930.734
-   Object.rotation -180.000/0.000/0.000
+   Object.rotation 180.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
@@ -478,13 +478,13 @@ if v_arg1 == host
    rem [ObjectSpawner: CP_64_cmp_lagleize_mainbase_allied_truck_ammo]
    Object.create CP_64_cmp_lagleize_mainbase_allied_truck_ammo
    Object.absolutePosition -808.656/54.208/-918.941
-   Object.rotation -180.000/0.000/0.000
+   Object.rotation 180.000/0.000/0.000
    Object.setControlPointId 307
    Object.layer 4
 
    rem [ObjectSpawner: CP_64_cmp_lagleize_forest_transport_01]
    Object.create CP_64_cmp_lagleize_forest_transport_01
-   Object.absolutePosition -152.387/149.457/521.334
+   Object.absolutePosition -143.062/145.286/502.801
    Object.rotation 0.000/0.000/0.000
    Object.setControlPointId 309
    Object.layer 4
@@ -1023,7 +1023,7 @@ if v_arg1 == host
 
    rem [ControlPoint: CP_64_cmp_lagleize_forest]
    Object.create CP_64_cmp_lagleize_forest
-   Object.absolutePosition -144.597/146.226/508.058
+   Object.absolutePosition -136.138/146.253/524.802
    Object.layer 4
 
    rem [ControlPoint: CP_64_cmp_lagleize_reinforcements_allied]
